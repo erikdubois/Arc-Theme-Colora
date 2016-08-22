@@ -88,14 +88,23 @@ If you want to install the latest version from git, clone the repository with
 
 **2. Change the colour**
 
+Use the script to change the colour. Find yourself a nice colour on gpick or online.
+It should be a hexadecimal notation. Read the script for more info.
 
+	1-change-colors.sh
 
 **3. Delete old assets or png's**
 
+Old png's will have to be deleted. They are still the original blue ones. Read the script for more info.
+
+	2-delete-assets.sh
 
 
 **4. Make new assets or png's**
 
+This is the most important part. New png's will be created with your colour.
+
+	3-make-assets.sh
 
 
 **5. Build and install the theme**
