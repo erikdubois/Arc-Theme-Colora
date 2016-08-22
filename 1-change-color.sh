@@ -70,7 +70,7 @@ find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {
 
 oldcolour1=5294E2
 #colour orange = sun = C77320
-newcolour1=C77320
+newcolour1=E1D5E5
 
 
 # all css files but also svg files will be affected
