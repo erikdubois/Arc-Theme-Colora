@@ -104,11 +104,28 @@ Other options to pass to autogen.sh are
 
 # Watch out
 
-##The themes can be found here : /usr/local/share/themes
+If you forget to type 
 
+  --prefix=/usr
 
-I copy them manually to ~/.themes were I can make further enhancements.
+Then the themes can be found here : /usr/local/share/themes
+
+Otherwise the themes will be installed in /usr/share/themes.
+
+See that you do not overwrite existing themes.
+
+The initial names will be 
+
+  Arc
+  Arc-Dark
+  Arc-Darker 
+
+We will change the names manually. Easier then looking in the files where to change what.
+
+I copy them manually to ~/.themes were I can make further enhancements and changes.
+
 Rename the folders so that they are unique.
+
 Change the index.theme so that the names of the theme are the same as the folder.
 
 

@@ -166,7 +166,7 @@ StScrollBar {
 .shell-link {
   color: #2679db; }
   .shell-link:hover {
-    color: #ecedef; }
+    color: #C77320; }
 
 .headline {
   font-size: 110%; }
@@ -1971,7 +1971,7 @@ StScrollBar {
 .lg-dialog .shell-link {
   color: #2679db; }
   .lg-dialog .shell-link:hover {
-    color: #ecedef; }
+    color: #C77320; }
 
 .lg-completions-text {
   font-size: .9em;

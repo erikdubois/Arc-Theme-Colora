@@ -132,7 +132,7 @@
      id="layer1"
      transform="translate(0,-296)">
     <rect
-       style="opacity:1;fill:#ecedef;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C77320;fill-opacity:1;stroke:none"
        id="rect4270-9"
        width="4"
        height="2"
@@ -144,9 +144,9 @@
        height="2"
        width="4"
        id="rect4202"
-       style="opacity:1;fill:#ecedef;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#C77320;fill-opacity:1;stroke:none" />
     <rect
-       style="opacity:1;fill:#ecedef;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C77320;fill-opacity:1;stroke:none"
        id="rect4208"
        width="4"
        height="2"
@@ -158,6 +158,6 @@
        height="2"
        width="4"
        id="rect4214"
-       style="opacity:1;fill:#ecedef;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#C77320;fill-opacity:1;stroke:none" />
   </g>
 </svg>

@@ -697,7 +697,7 @@ NemoWindow .primary-toolbar NemoPathBar.linked:not(.vertical):not(.path-bar) > .
     *:selected *:link:visited, *:selected .button:visited:link, *:selected .button:visited {
       color: #bad4f3; }
   *:link:hover, .button:hover:link, .button:hover:visited {
-    color: #ecedef; }
+    color: #C77320; }
     *:selected *:link:hover, *:selected .button:hover:link, *:selected .button:hover:visited {
       color: #eef4fc; }
   *:link:active, .button:active:link, .button:active:visited {
@@ -918,7 +918,7 @@ GtkComboBox {
       .header-bar.selection-mode .selection-menu .arrow, .header-bar.titlebar.selection-mode .selection-menu .arrow {
         -gtk-icon-source: -gtk-icontheme("pan-down-symbolic"); }
     .maximized .header-bar.selection-mode, .maximized .header-bar.titlebar.selection-mode {
-      background-color: #ecedef; }
+      background-color: #C77320; }
   .tiled .header-bar, .tiled .header-bar:backdrop,
   .maximized .header-bar, .maximized .header-bar:backdrop {
     border-radius: 0; }
