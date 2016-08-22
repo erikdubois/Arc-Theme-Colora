@@ -12,7 +12,7 @@ style "notify-window" {
 style "notify-button" {
   bg[NORMAL] = "#434652"
   bg[PRELIGHT] = "#5C6070"
-  bg[ACTIVE] = "#E1D5E5"
+  bg[ACTIVE] = "#5294E2"
 
   fg[NORMAL] = "#BAC3CF"
   fg[PRELIGHT] = "#BAC3CF"
@@ -27,7 +27,7 @@ style "notify-button" {
 }
 
 style "notify-text" {
-  GtkWidget::link-color = "#E1D5E5"
+  GtkWidget::link-color = "#5294E2"
 
   fg[NORMAL] = "#BAC3CF"
   fg[PRELIGHT] = "#BAC3CF"
@@ -49,9 +49,9 @@ style "notify-progressbar" {
   ythickness   = 0
 
   fg[PRELIGHT] = "#000000"
-  bg[NORMAL]   = "#E1D5E5"
+  bg[NORMAL]   = "#5294E2"
   bg[ACTIVE] = "#1D1F26"
-  bg[SELECTED] = "#E1D5E5"
+  bg[SELECTED] = "#5294E2"
 
   engine "murrine" {
     gradient_shades = { 1.0, 1.0, 1.0, 1.0 }
