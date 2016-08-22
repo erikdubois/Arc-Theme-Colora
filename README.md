@@ -10,7 +10,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 
 #####Arc-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/NC6dqyl.png)
+![A screenshot of the Arc-Darker theme](http://i.imgur.com/QnFBXN7.jpg)
 
 #####Arc-Dark
 
