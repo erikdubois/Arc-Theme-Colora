@@ -2,6 +2,8 @@
 
 Arc-Sun is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
+It is forked from https://github.com/horst3180/arc-theme.
+
 ###Arc-Sun is available in three variants 
 
 #####Arc-Sun
