@@ -57,6 +57,8 @@
 echo "All colours in the folder common are still the original blue ones from github!!!"
 echo "Choose your colour that will replace the blue online or with tools like gpick."
 echo "e.g. sudo apt-get install gpick"
+echo "Changing ....."
+echo "Wait for it ...."
 
 # making sure all hex codes are in capital letters
 # colour blue 5294e2 from github Arc
@@ -76,4 +78,7 @@ newcolour1=C77320
 
 find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
-echo "Next up delete all assets i.e. png's with the script"
+
+echo
+echo
+echo "Next up delete all assets i.e. png's with script number 2"

@@ -1,5 +1,8 @@
 # Arc-Sun Theme
 
+Create your own theme on this template. Choose the colour accent.
+
+
 Arc-Sun is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 It is forked from https://github.com/horst3180/arc-theme.
@@ -28,7 +31,7 @@ Check the folder themes : three variants can be copy/pasted.
 
 You can change the colour in the process. 
 
-Arc-Sun uses #C77320 but you can choose ANY hexadecimal colouring you want.
+**Arc-Sun uses #C77320 but you can choose ANY hexadecimal colouring you want.
 
 http://www.color-hex.com/color/c77320
 
@@ -76,6 +79,8 @@ To build the theme you'll need
 * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
 * `git` if you want to clone the source directory
 
+  sudo apt-get install ...
+
 If your distributions doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
 
 Install the theme with the following commands
@@ -110,6 +115,7 @@ This is the most important part. New png's will be created with your colour.
 **5. Build and install the theme**
 
     ./autogen.sh --prefix=/usr
+    
     sudo make install
 
 Other options to pass to autogen.sh are
@@ -136,9 +142,13 @@ If you forget to type
 
   --prefix=/usr
 
-Then the themes can be found here : /usr/local/share/themes
+Then the themes can be found here : 
 
-Otherwise the themes will be installed in /usr/share/themes.
+  /usr/local/share/themes
+
+Otherwise the themes will be installed in 
+
+  /usr/share/themes
 
 See that you do not overwrite existing themes.
 

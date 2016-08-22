@@ -65,4 +65,6 @@ rm -rf common/gtk-3.0/3.18/assets/*
 rm -rf common/gtk-3.0/3.20/assets/*
 
 echo "All png's have been deleted"
-echo "Proceed to making the assets script"
+echo "Proceed to making the assets."
+echo
+echo "Run script number 3 to make the assets."
