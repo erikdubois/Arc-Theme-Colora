@@ -14,7 +14,7 @@ static char * hide_pressed_xpm[] = {
 "-	c #406590",
 ";	c #3A5372",
 ">	c #508FD8",
-",	c #5294E2",
+",	c #E1D5E5",
 "'	c #3A5371",
 ")	c #5193E1",
 "!	c #4F8ED8",
