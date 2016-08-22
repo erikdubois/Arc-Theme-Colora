@@ -86,7 +86,19 @@ If you want to install the latest version from git, clone the repository with
 
     git clone https://github.com/erikdubois/arc-theme-sun --depth 1 && cd arc-theme-sun
 
-**2. Build and install the theme**
+**2. Change the colour**
+
+
+
+**3. Delete old assets or png's**
+
+
+
+**4. Make new assets or png's**
+
+
+
+**5. Build and install the theme**
 
     ./autogen.sh --prefix=/usr
     sudo make install
