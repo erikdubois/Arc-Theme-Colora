@@ -113,8 +113,9 @@ Other options to pass to autogen.sh are
                                option should not be needed.
 
 # Watch out
-# The themes can be found here : /usr/local/share/themes
-# I copy them manually to ~/.themes were I can make further enhancements.
+
+The themes can be found here : /usr/local/share/themes
+I copy them manually to ~/.themes were I can make further enhancements.
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc`, `Arc-Darker` or `Arc-Dark` as Window/GTK+ theme and `Arc` or `Arc-Dark` as Gnome-Shell and Xfce-Notify theme.
 
