@@ -19,6 +19,12 @@ It is forked from https://github.com/horst3180/arc-theme.
 ![A screenshot of the Arc-Dark-Sun theme](http://i.imgur.com/lVF7Wj0.jpg)
 
 
+
+# Just want to download the themes not build them
+
+Check the folder themes : three variants can be copy/pasted.
+
+
 ### Requirements
 
 * Gnome/GTK 3.14, 3.16, 3.18 or 3.20
