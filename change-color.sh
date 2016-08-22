@@ -37,7 +37,7 @@
 
 # put your colour codes in here and do not change the rest
 
-oldcolour1=c77320
+oldcolour1=C77320
 newcolour1=ecedef
 
 
