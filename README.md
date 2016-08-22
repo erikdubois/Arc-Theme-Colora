@@ -24,6 +24,13 @@ It is forked from https://github.com/horst3180/arc-theme.
 
 Check the folder themes : three variants can be copy/pasted.
 
+# Building the theme yourself
+
+You can change the colour in the process. 
+
+Arc-Sun uses #C77320 but you can choose ANY hexadecimal colouring you want.
+
+http://www.color-hex.com/color/c77320
 
 ### Requirements
 

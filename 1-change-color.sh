@@ -54,6 +54,9 @@
 #
 ##################################################################################################################
 
+echo "All colours in the folder common are still the original blue ones from github!!!"
+echo "Choose your colour that will replace the blue online or with tools like gpick."
+echo "e.g. sudo apt-get install gpick"
 
 # making sure all hex codes are in capital letters
 # colour blue 5294e2 from github Arc

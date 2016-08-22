@@ -29,7 +29,7 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="#fdfdfd" />
-<constant name="C_button_bg_active" value="#C77320" />
+<constant name="C_button_bg_active" value="#5294E2" />
 
 <constant name="C_button_border_hover" value="#D1D3DA" />
 

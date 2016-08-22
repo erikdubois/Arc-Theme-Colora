@@ -146,13 +146,13 @@
        inkscape:connector-curvature="0"
        d="m 110.875,749 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -5,5 -0.6875,0.71875 0.6875,0.71875 5,5 a 1.016466,1.016466 0 1 0 1.4375,-1.4375 L 107.4375,755 l 4.28125,-4.28125 A 1.0001,1.0001 0 0 0 110.875,749 z"
        id="path6040"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c77320;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <rect
        height="1"
        id="rect6046"
        rx="0"
        ry="1"
-       style="fill:#c77320;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        width="1"
        x="111.0002"
        y="749" />
@@ -161,7 +161,7 @@
        id="rect6050"
        rx="0"
        ry="1"
-       style="fill:#c77320;fill-opacity:1;stroke:none"
+       style="fill:#5294e2;fill-opacity:1;stroke:none"
        width="1"
        x="111.0002"
        y="760" />
