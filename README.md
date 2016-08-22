@@ -1,20 +1,20 @@
-# Arc Theme
+# Arc-Sun Theme
 
-Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+Arc-Sun is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-###Arc is available in three variants 
+###Arc-Sun is available in three variants 
 
-#####Arc
+#####Arc-Sun
 
-![A screenshot of the Arc theme](http://i.imgur.com/Ph5ObOa.png)
+![A screenshot of the Arc-Sun theme](http://i.imgur.com/ck1grBn.jpg)
 
-#####Arc-Darker
+#####Arc-Dark-Sun
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/QnFBXN7.jpg)
+![A screenshot of the Arc-Darker-Sun theme](http://i.imgur.com/QnFBXN7.jpg)
 
-#####Arc-Dark
+#####Arc-Darker-Sun
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/5AGlCnA.png)
+![A screenshot of the Arc-Dark-Sun theme](http://i.imgur.com/lVF7Wj0.jpg)
 
 
 ### Requirements
@@ -68,7 +68,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/erikdubois/arc-theme-sun --depth 1 && cd arc-theme
+    git clone https://github.com/erikdubois/arc-theme-sun --depth 1 && cd arc-theme-sun
 
 **2. Build and install the theme**
 
@@ -97,8 +97,10 @@ Other options to pass to autogen.sh are
 
 The themes can be found here : /usr/local/share/themes
 I copy them manually to ~/.themes were I can make further enhancements.
+Rename the folders so that they are unique.
+Change the index.theme so that the names of the theme are the same as the folder.
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc`, `Arc-Darker` or `Arc-Dark` as Window/GTK+ theme and `Arc` or `Arc-Dark` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme and `Arc-Sun` or `Arc-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
 
 # Uninstall the theme
 
@@ -145,6 +147,3 @@ If you find a bug, please report it at https://github.com/horst3180/arc-theme/is
 ### License
 Arc is available under the terms the GPL-3.0. See `COPYING` for details.
 
-### Full Preview
-![A full screenshot of the Arc theme](http://i.imgur.com/tD1OBQ3.png)
-<sub>Screenshot Details: Icons: [Arc](https://github.com/horst3180/arc-icon-theme) | Launcher Icons based on [White Pixel Icons](http://darkdawg.deviantart.com/art/White-Pixel-Icons-252310560) | [Wallpaper](https://pixabay.com/photo-869593/) | Font: Futura Bk bt</sub>
