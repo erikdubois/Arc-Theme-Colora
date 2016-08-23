@@ -27,6 +27,12 @@ It is forked from https://github.com/horst3180/arc-theme.
 
 Check the folder themes : three variants can be copy/pasted.
 
+In the mean time we ran our script a few times. I will add the results of this in this folder as well.
+
+![A screenshot of the Arc-Dark-Fab theme](http://i.imgur.com/PbRDWxU.jpg)
+
+![A screenshot of the Arc-Dark-Luv theme](http://i.imgur.com/c3OTQLZ.jpg)
+
 # Building the theme yourself
 
 You can change the colour in the process. 
