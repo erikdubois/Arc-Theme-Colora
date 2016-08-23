@@ -157,11 +157,11 @@ See that you do not overwrite existing themes.
 
 The initial names will be 
 
-  Arc
-  Arc-Dark
-  Arc-Darker 
+  Arc-Sun
+  Arc-Dark-Sun
+  Arc-Darker-Sun
 
-We will change the names manually. Easier then looking in the files where to change what.
+You have to change the names manually. Easier then looking in the files where to change what.
 
 I copy them manually to ~/.themes were I can make further enhancements and changes.
 
