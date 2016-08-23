@@ -25,7 +25,7 @@ It is forked from https://github.com/horst3180/arc-theme.
 
 # Just want to download the themes not build them
 
-Check the folder themes : three variants can be copy/pasted.
+Check the folder <b>themes</b> : three variants can be copy/pasted.
 
 In the mean time we ran our script a few times. I will add the results of this in this folder as well.
 
