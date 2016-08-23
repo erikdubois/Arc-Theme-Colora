@@ -11,15 +11,28 @@ It is forked from https://github.com/horst3180/arc-theme.
 
 #####Arc-Sun
 
-![A screenshot of the Arc-Sun theme](http://i.imgur.com/ck1grBn.jpg)
+
+A screenshot of the Arc-Sun theme
+
+![Screenshots](http://i.imgur.com/ck1grBn.jpg)
+
+
 
 #####Arc-Dark-Sun
 
-![A screenshot of the Arc-Darker-Sun theme](http://i.imgur.com/QnFBXN7.jpg)
+A screenshot of the Arc-Darker-Sun theme]
+
+![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
+
+
 
 #####Arc-Darker-Sun
 
-![A screenshot of the Arc-Dark-Sun theme](http://i.imgur.com/lVF7Wj0.jpg)
+A screenshot of the Arc-Dark-Sun theme
+
+![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
+
+
 
 
 
@@ -29,9 +42,16 @@ Check the folder <b>themes</b> : three variants can be copy/pasted.
 
 In the mean time we ran our script a few times. I will add the results of this in this folder as well.
 
-![A screenshot of the Arc-Dark-Fab theme](http://i.imgur.com/PbRDWxU.jpg)
+A screenshot of the Arc-Dark-Fab theme
 
-![A screenshot of the Arc-Dark-Luv theme](http://i.imgur.com/c3OTQLZ.jpg)
+
+![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
+
+A screenshot of the Arc-Dark-Luv theme
+
+![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
+
+
 
 # Building the theme yourself
 
