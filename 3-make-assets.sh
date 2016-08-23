@@ -87,7 +87,7 @@ echo "making the assets of gtk-3.0/3.20"
 echo
 sh render-assets.sh
 
-echo -e "\e[31mAll assets have been made."
+echo "All assets have been made."
 echo "Svg's have been exported from the assets svg files"
 echo "and converted to png's"
 echo
