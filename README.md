@@ -73,6 +73,9 @@ If your distribution isn't listed, please check the requirements yourself.
 
 
 To build the theme you'll need 
+
+* `optipng`
+* `inkscape`
 * `autoconf`
 * `automake`
 * `pkg-config` or `pkgconfig` if you use Fedora
