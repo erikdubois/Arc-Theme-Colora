@@ -163,7 +163,7 @@ The initial names will be
 
 You have to change the names manually. Easier then looking in the files where to change what.
 
-I copy them manually to ~/.themes were I can make further enhancements and changes.
+I move them manually to ~/.themes were I can make further enhancements and changes.
 
 Rename the folders so that they are unique.
 
