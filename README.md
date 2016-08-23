@@ -212,6 +212,8 @@ After the installation is complete you can activate the theme with `gnome-tweak-
 
 ### Extras
 
+This will be the next job on my agenda... Nothing beneath here has changed in reference to the github of horst3180.
+
 #### Arc Firefox theme
 A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
 
