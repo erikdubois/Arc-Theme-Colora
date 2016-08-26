@@ -56,7 +56,7 @@ In the mean time we ran our script a few times. I will add the results of these 
 ![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
 
 
-# Tutorial to follow
+# Building the theme yourself - youtube tutorial
 
 [![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
