@@ -38,19 +38,27 @@ A screenshot of the Arc-Dark-Sun theme
 
 # Just want to download the themes not build them
 
-Check the folder <b>themes</b> : three variants can be copy/pasted.
+Check the folder <b>themes</b> : three sun variants can be copy/pasted.
 
-In the mean time we ran our script a few times. I will add the results of this in this folder as well.
+In the mean time we ran our script a few times. I will add the results of these runs also to the folder.
 
-A screenshot of the Arc-Dark-Fab theme
+
+
+##A screenshot of the Arc-Dark-Fab theme
 
 
 ![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
 
-A screenshot of the Arc-Dark-Luv theme
+
+
+##A screenshot of the Arc-Dark-Luv theme
 
 ![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
 
+
+# Tutorial to follow
+
+[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
 
 # Building the theme yourself
