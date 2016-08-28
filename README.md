@@ -61,6 +61,19 @@ In the mean time we ran our script a few times. I will add the results of these 
 [![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
 
+##A screenshot of the Arc-Dark-Tomato theme
+
+![Screenshots](http://i.imgur.com/jhuHWu8.png)
+
+
+# Building the theme yourself - youtube tutorial
+
+[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
+
+
+
+
+
 # Building the theme yourself
 
 You can change the colour in the process. 
