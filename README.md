@@ -8,8 +8,9 @@ Arc COLORA is also capable to have ANY colour YOU like.
 
 Create your own theme on this template. Choose the colour accent.
 
+zerzer
+Arc-Colora is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-Arc-Sun is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 It is forked from https://github.com/horst3180/arc-theme.
 
@@ -145,7 +146,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/erikdubois/arc-theme-sun --depth 1 && cd arc-theme-sun
+    git clone https://github.com/erikdubois/arc-theme-colora --depth 1 && cd arc-theme-colora
 
 **2. Change the colour**
 
@@ -214,7 +215,7 @@ The initial names will be
   Arc-Dark-Sun
   Arc-Darker-Sun
 
-You have to change the names manually. Easier then looking in the files where to change what.
+You have to change the names manually. Easier than looking in the files where to change what.
 
 I move them manually to ~/.themes were I can make further enhancements and changes.
 
