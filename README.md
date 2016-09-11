@@ -6,13 +6,15 @@ Sardi icons use also the term COLORA to indicate that the icons can be ANY colou
 
 Arc COLORA is also capable to have ANY colour YOU like.
 
-Create your own theme on this template. Choose the colour accent.
+Create your own theme on this template. Choose the colour accent
 
 
 Arc-Colora is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
 It is forked from https://github.com/horst3180/arc-theme.
+
+
 
 ###Arc-Sun is available in three variants 
 
