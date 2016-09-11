@@ -1,6 +1,6 @@
 # Arc-Colara Theme
 
-#Arc-Sun has been renamed to Arc-Colora! 
+###Arc-Sun has been renamed to Arc-Colora! 
 
 Sardi icons use also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
