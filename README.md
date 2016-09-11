@@ -1,4 +1,10 @@
-# Arc-Sun Theme
+# Arc-Colara Theme
+
+#Arc-Sun has been renamed to Arc-Colora! 
+
+Sardi icons use also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
+
+Arc COLORA is also capable to have ANY colour YOU like.
 
 Create your own theme on this template. Choose the colour accent.
 
