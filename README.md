@@ -183,9 +183,9 @@ I move them manually from
 
 were I can make further enhancements and changes.
 
-Rename the <b>folders</b> so that they are unique.
+Rename the <b>folders</b> so that they are unique. E.g. Arc-Sun
 
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder.
+Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Arc-Sun
 
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme and `Arc-Sun` or `Arc-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
