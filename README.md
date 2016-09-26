@@ -63,6 +63,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/jhuHWu8.png)
 
+##A screenshot of the Arc-Dark-Red theme
+
+![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
+
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
