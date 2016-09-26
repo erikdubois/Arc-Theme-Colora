@@ -23,7 +23,7 @@ Sun is just the name of the colour. You can choose any name.
 
 Other names and themes that I created are in the themes <b>folder</b>. They are always 'old'.
 
-If you run the scripts on the latest version of the github of horst <b>then</b> you will have the most recent version with the latest bug fixes.
+If you run the scripts on the latest version of the github of Horst <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
 # Just want to download the themes not build them.
