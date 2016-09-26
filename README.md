@@ -1,6 +1,7 @@
-# Arc-Colara Theme
+# Arc-Colora Theme
 
-Changing the colours of Arc-Theme of https://github.com/horst3180/arc-theme.
+##The goal is to make scripts that make it easy to change the colours of the Arc-Theme of https://github.com/horst3180/
+
 
 ###Arc-Sun has been renamed to Arc-Colora! 
 
