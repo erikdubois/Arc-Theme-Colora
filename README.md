@@ -3,16 +3,13 @@
 ##The goal is to make scripts that make it easy to change the colours of the Arc-Theme of https://github.com/horst3180/
 
 
-Arc-Sun has been renamed to Arc-Colora! 
-
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
-#Arc COLORA is also capable to have ANY colour YOU like.
+##Arc COLORA is capable to have ANY colour YOU like.
 
-Create your own theme with these scripts. Choose the colour accent and run!
+###Create your own colour accent theme with these scripts.
 
-
-Arc-Colora is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
 It is forked from https://github.com/horst3180/arc-theme.
