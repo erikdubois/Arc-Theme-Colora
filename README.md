@@ -88,9 +88,8 @@ To build the theme you'll need following applications. We will install them via 
 
       sudo apt-get install ...
 
-If your distributions doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
 
-Install the theme with the following commands
+#Install the theme with the following scripts
 
 **0. Get the source**
 
