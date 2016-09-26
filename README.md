@@ -74,19 +74,19 @@ Rename the folders to a new name colouring name.
     rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
     rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
-If you do not, remove them, my guess is that they will be overwritten with may be some residual code from the old version.
+If you do not, remove them, my guess is that they will be overwritten. And I guess it will leave some residual code from the old version.
 
-To build the theme you'll need (we will install all of these in script 4)
+To build the theme you'll need following applications. We will install them via script 4.
 
-* `optipng`
-* `inkscape`
-* `autoconf`
-* `automake`
-* `pkg-config` or `pkgconfig` if you use Fedora
-* `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
-* `git` if you want to clone the source directory
+    * `optipng`
+    * `inkscape`
+    * `autoconf`
+    * `automake`
+    * `pkg-config` or `pkgconfig` if you use Fedora
+    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
+    * `git` if you want to clone the source directory
 
-  sudo apt-get install ...
+      sudo apt-get install ...
 
 If your distributions doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
 
