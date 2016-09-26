@@ -93,9 +93,9 @@ To build the theme you'll need following applications. We will install them via 
 
 **0. Get the source**
 
-If you want to install the latest version from git, clone the repository with
+Get the latest version from git, clone the repository with
 
-    git clone https://github.com/erikdubois/arc-theme-colora --depth 1 && cd arc-theme-colora
+    git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
 
 **1. Change the colour**
 
