@@ -82,7 +82,7 @@ Rename the folders to a new name colouring name.
 
 If you do not, remove them, my guess is that they will be overwritten. And I guess it will leave some residual code from the old version.
 
-To build the theme you'll need following applications. We will install them via script 4.
+To build the theme you'll need following applications. <b>We will install them via script 4.</b>
 
     * `optipng`
     * `inkscape`
