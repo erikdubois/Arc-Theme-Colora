@@ -70,9 +70,9 @@ A screenshot of the Arc-Dark-Sun theme
 The result of the scripts of Horst will be called Arc, Arc-Darker, Arc-Dark no matter what colour you choose.
 Rename the folders to a new name colouring name.
 
-  sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-  rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
-  rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+    rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
+    rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
 If you do not, remove them, my guess is that they will be overwritten with may be some residual code from the old version.
 
