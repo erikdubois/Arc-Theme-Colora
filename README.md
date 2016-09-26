@@ -1,12 +1,14 @@
 # Arc-Colara Theme
 
+Changing the colours of Arc-Theme of https://github.com/horst3180/arc-theme.
+
 ###Arc-Sun has been renamed to Arc-Colora! 
 
-Sardi icons use also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
+Sardi icons uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
-Arc COLORA is also capable to have ANY colour YOU like.
+#Arc COLORA is also capable to have ANY colour YOU like.
 
-Create your own theme on this template. Choose the colour accent
+Create your own theme with these scripts. Choose the colour accent and run!
 
 
 Arc-Colora is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
@@ -14,11 +16,31 @@ Arc-Colora is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-
 
 It is forked from https://github.com/horst3180/arc-theme.
 
+Each time is run these scripts, I renamed the result from 
+
+Sun is just the name of the colour.
+
+Arc to Arc-Sun 
+Arc-Dark to Arc-Dark-Sun
+Arc-Darker to Arc-Darker-Sun
+
+Other names and themes that I created are in the themes folder. They are always 'old'.
+
+If you run the scripts on the latest version of the github of horst then you will have the most recent version with the latest bug fixes.
 
 
-###Arc-Sun is available in three variants 
+# Just want to download the themes not build them (approx. 20 minutes)
 
-#####Arc-Sun
+Check the folder <b>themes</b> : three sun variants can be copy/pasted.
+
+In the mean time we ran our script a few times. I will add the results of these runs also to the folder.
+
+
+
+#Some examples of themes created with the script
+
+
+##Arc-Sun
 
 
 A screenshot of the Arc-Sun theme
@@ -27,7 +49,7 @@ A screenshot of the Arc-Sun theme
 
 
 
-#####Arc-Dark-Sun
+##Arc-Dark-Sun
 
 A screenshot of the Arc-Darker-Sun theme]
 
@@ -35,21 +57,11 @@ A screenshot of the Arc-Darker-Sun theme]
 
 
 
-#####Arc-Darker-Sun
+###Arc-Darker-Sun
 
 A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
-
-
-
-
-
-# Just want to download the themes not build them
-
-Check the folder <b>themes</b> : three sun variants can be copy/pasted.
-
-In the mean time we ran our script a few times. I will add the results of these runs also to the folder.
 
 
 
@@ -63,6 +75,7 @@ In the mean time we ran our script a few times. I will add the results of these 
 ##A screenshot of the Arc-Dark-Luv theme
 
 ![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
+
 
 
 # Building the theme yourself - youtube tutorial
