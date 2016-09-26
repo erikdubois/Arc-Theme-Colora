@@ -12,40 +12,30 @@
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
-It is forked from https://github.com/horst3180/arc-theme.
-
-Each time is run these scripts, I renamed the result from 
-
-Sun is just the name of the colour.
+Each time I run these scripts, I renamed the result from 
 
 Arc to Arc-Sun 
 Arc-Dark to Arc-Dark-Sun
 Arc-Darker to Arc-Darker-Sun
 
-Other names and themes that I created are in the themes folder. They are always 'old'.
+Sun is just the name of the colour. You can choose any name.
 
-If you run the scripts on the latest version of the github of horst then you will have the most recent version with the latest bug fixes.
+Other names and themes that I created are in the themes <b>folder</b>. They are always 'old'.
 
-
-# Just want to download the themes not build them (approx. 20 minutes)
-
-Check the folder <b>themes</b> : three sun variants can be copy/pasted.
-
-In the mean time we ran our script a few times. I will add the results of these runs also to the folder.
+If you run the scripts on the latest version of the github of horst <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
+# Just want to download the themes not build them (approx. 20 minutes to build them)
 
-#Some examples of themes created with the script
+Check the folder <b>themes</b> : 
 
+Here is what you can download: 
 
 ##Arc-Sun
-
 
 A screenshot of the Arc-Sun theme
 
 ![Screenshots](http://i.imgur.com/ck1grBn.jpg)
-
-
 
 ##Arc-Dark-Sun
 
@@ -53,93 +43,38 @@ A screenshot of the Arc-Darker-Sun theme]
 
 ![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
 
-
-
 ###Arc-Darker-Sun
 
 A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
 
-
-
 ##A screenshot of the Arc-Dark-Fab theme
 
-
 ![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
-
-
 
 ##A screenshot of the Arc-Dark-Luv theme
 
 ![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
 
-
-
-# Building the theme yourself - youtube tutorial
-
-[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
-
-
 ##A screenshot of the Arc-Dark-Tomato theme
 
 ![Screenshots](http://i.imgur.com/jhuHWu8.png)
-
-
-# Building the theme yourself - youtube tutorial
-
-[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
-
-
-
-
-
-# Building the theme yourself
-
-You can change the colour in the process. 
-
-Arc-Sun uses #C77320 but you can choose ANY hexadecimal colouring you want.
-
-http://www.color-hex.com/color/c77320
-
-### Requirements
-
-* Gnome/GTK 3.14, 3.16, 3.18 or 3.20
-* The `gnome-themes-standard` package
-* The murrine engine. This has different names depending on your distro.
-  * `gtk-engine-murrine` (Arch Linux)
-  * `gtk2-engines-murrine` (Debian, Ubuntu, elementary OS)
-  * `gtk-murrine-engine` (Fedora)
-  * `gtk2-engine-murrine` (openSUSE)
-  * `gtk-engines-murrine` (Gentoo)
-
-Main distributions that meet these requirements are
-
-* Arch Linux and Arch Linux based distros
-* Ubuntu 15.04, 15.10 and 16.04 (**Ubuntu 14.04 and 14.10 are not supported**)
-* elementary OS Freya
-* Debian 8, Testing or Unstable
-* Gentoo
-* Fedora 21 - 24
-* openSUSE 13.2, Leap 42.1 and Tumbleweed
-
-Derivatives of these distributions should work, as well.
-
-If your distribution isn't listed, please check the requirements yourself.
 
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
+The result of the scripts of Horst will be called Arc, Arc-Darker, Arc-Dark no matter what colour you choose.
+Rename the folders to a new name colouring name.
 
-    sudo rm -rf /usr/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    sudo rm -rf /usr/local/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    rm -rf ~/.local/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
-    rm -rf ~/.themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
+  sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+  rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
+  rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
+If you do not, remove them, my guess is that they will be overwritten with may be some residual code from the old version.
 
-
-To build the theme you'll need 
+To build the theme you'll need (we will install all of these in script 4)
 
 * `optipng`
 * `inkscape`
@@ -155,38 +90,36 @@ If your distributions doesn't ship separate development packages you just need G
 
 Install the theme with the following commands
 
-**1. Get the source**
+**0. Get the source**
 
 If you want to install the latest version from git, clone the repository with
 
     git clone https://github.com/erikdubois/arc-theme-colora --depth 1 && cd arc-theme-colora
 
-**2. Change the colour**
+**1. Change the colour**
 
 Use the script to change the colour. Find yourself a nice colour on gpick or online.
 It should be a hexadecimal notation. Read the script for more info.
 
 	1-change-colors.sh
 
-**3. Delete old assets or png's**
+**2. Delete old assets or png's**
 
 Old png's will have to be deleted. They are still the original blue ones. Read the script for more info.
 
 	2-delete-assets.sh
 
 
-**4. Make new assets or png's**
+**3. Make new assets or png's**
 
 This is the most important part. New png's will be created with your colour.
 
 	3-make-assets.sh
 
 
-**5. Build and install the theme**
+**4. Build and install the theme**
 
-    ./autogen.sh --prefix=/usr
-    
-    sudo make install
+   4-final-installation.sh
 
 Other options to pass to autogen.sh are
 
@@ -220,13 +153,6 @@ Otherwise the themes will be installed in
 
   /usr/share/themes
 
-See that you do not overwrite existing themes.
-
-The initial names will be 
-
-  Arc-Sun
-  Arc-Dark-Sun
-  Arc-Darker-Sun
 
 You have to change the names manually. Easier than looking in the files where to change what.
 
