@@ -183,6 +183,7 @@ After the installation is complete you can activate the theme with `gnome-tweak-
 
 # Uninstall the theme
 
+If you renamed the theme to Arc-Sun for example
 
     sudo rm -rf /usr/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
     sudo rm -rf /usr/local/share/themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
