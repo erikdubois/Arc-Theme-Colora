@@ -14,11 +14,11 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 
 Each time I run these scripts, I renamed the result from 
 
-Arc to Arc-Sun
+  Arc to Arc-Sun
 
-Arc-Dark to Arc-Dark-Sun
+  Arc-Dark to Arc-Dark-Sun
 
-Arc-Darker to Arc-Darker-Sun
+  Arc-Darker to Arc-Darker-Sun
 
 Sun is just the name of the colour. You can choose any name.
 
