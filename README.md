@@ -25,7 +25,9 @@ Other names and themes that I created are in the themes <b>folder</b>. They are 
 If you run the scripts on the latest version of the github of horst <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
-# Just want to download the themes not build them (approx. 20 minutes to build them)
+# Just want to download the themes not build them.
+
+Building takes approx. 20 minutes.
 
 Check the folder <b>themes</b> : 
 
