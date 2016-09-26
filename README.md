@@ -175,7 +175,13 @@ Otherwise the themes will be installed in
 
 Easier than looking in the files where to change what.
 
-I move them manually from /usr/share/themes to ~/.themes were I can make further enhancements and changes.
+I move them manually from 
+
+    /usr/share/themes 
+    to 
+    ~/.themes
+
+were I can make further enhancements and changes.
 
 Rename the folders so that they are unique.
 
