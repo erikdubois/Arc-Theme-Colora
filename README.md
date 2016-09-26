@@ -33,6 +33,8 @@ Check the folder <b>themes</b> :
 
 Here is what you can download: 
 
+All of them have three variants. Not only the Dark version.
+
 ##Arc-Sun
 
 A screenshot of the Arc-Sun theme
