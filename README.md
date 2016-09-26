@@ -93,11 +93,11 @@ To build the theme you'll need following applications. We will install them via 
 
 **0. Get the source**
 
-Get the latest version from horst, clone the repository with
+Get the latest version from Horst - Arc Theme, clone the repository with
 
     git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
 
-Get the latest version from Arc-Colora, clone the repository with
+Get the latest version from Arc Colora, clone the repository with
 
     https://github.com/erikdubois/arc-theme-colora && cd arc-theme-colora
 
