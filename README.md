@@ -130,7 +130,7 @@ This is the most important part. New png's will be created with your colour.
 
 **4. Build and install the theme**
 
-   4-final-installation.sh
+    4-final-installation.sh
 
 Other options to pass to autogen.sh are
 
