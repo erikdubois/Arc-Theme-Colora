@@ -70,6 +70,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
 
+##A screenshot of the Arc-Dark-Polo theme
+
+![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
+
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
