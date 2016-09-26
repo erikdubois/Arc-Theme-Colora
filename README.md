@@ -165,7 +165,9 @@ Otherwise the themes will be installed in
     /usr/share/themes
 
 
-You have to change the names manually. Easier than looking in the files where to change what.
+###You have to change the names manually.
+
+Easier than looking in the files where to change what.
 
 I move them manually to ~/.themes were I can make further enhancements and changes.
 
