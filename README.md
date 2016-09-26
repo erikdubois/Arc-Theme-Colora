@@ -154,15 +154,15 @@ Other options to pass to autogen.sh are
 
 If you forget to type 
 
-  --prefix=/usr
+    --prefix=/usr
 
 Then the themes can be found here : 
 
-  /usr/local/share/themes
+    /usr/local/share/themes
 
 Otherwise the themes will be installed in 
 
-  /usr/share/themes
+    /usr/share/themes
 
 
 You have to change the names manually. Easier than looking in the files where to change what.
