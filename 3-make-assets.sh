@@ -56,7 +56,7 @@
 
 echo "Installing extra software"
 
-sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev
+sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev inkscape optipng
 
 echo "It is time for you to take a coffee."
 echo "It will take as long as it takes depending on cpu etc..."
