@@ -82,12 +82,16 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
 
+##A screenshot of the Arc-Dark-Evopop theme
+
+![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
+
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
 The result of the scripts of Horst will be called Arc, Arc-Darker, Arc-Dark no matter what colour you choose.
-Rename the folders to a new name colouring name.
+Rename the folders to a new colouring name.
 
     sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
     rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
@@ -105,7 +109,7 @@ To build the theme you'll need following applications. <b>We will install them v
     * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
     * `git` if you want to clone the source directory
 
-      sudo apt-get install ...
+      or sudo apt-get install ...
 
 
 #Install the theme with the following scripts
