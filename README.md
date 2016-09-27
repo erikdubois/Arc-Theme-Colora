@@ -78,6 +78,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
 
+##A screenshot of the Arc-Dark-Numix theme
+
+![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
+
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
@@ -107,6 +111,10 @@ To build the theme you'll need following applications. <b>We will install them v
 #Install the theme with the following scripts
 
 **0. Get the source**
+
+First install git 
+
+	sudo apt-get install git
 
 Get the latest version from Horst - Arc Theme, clone the repository with
 
