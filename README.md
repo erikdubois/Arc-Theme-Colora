@@ -222,7 +222,7 @@ Run this last script
 # Select the new theme
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme.
+After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme.
 
 
 
