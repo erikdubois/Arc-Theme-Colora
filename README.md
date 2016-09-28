@@ -206,7 +206,8 @@ After the installation is complete you can activate the theme with `gnome-tweak-
 
 **6. Erase the theme in /usr/share/themes**
 
-Your personal theme is in ~/.themes with the changed name and change index.themes.
+<b>Your personal theme is in ~/.themes with the changed name and changed index.themes.</b>
+
 You can erase the ones in /usr/share/themes. 
 
 If you want to erase the original files in the folder
