@@ -204,6 +204,21 @@ Follow the instructions in the script. It will ask for the name to add behind th
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
 
+**6. Erase the theme in /usr/share/themes**
+
+Your personal theme is in ~/.themes with the changed name and change index.themes.
+You can erase the ones in /usr/share/themes. 
+
+If you want to erase the original files in the folder
+
+	/usr/share/themes
+
+Run this last script
+
+	6-clean-up-usr-share-themes.sh
+
+
+
 
 # Watch out
 
