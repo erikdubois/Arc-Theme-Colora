@@ -86,6 +86,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
 
+##A screenshot of the Arc-Dark-Paper theme
+
+![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
+
 ### Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.

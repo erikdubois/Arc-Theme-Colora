@@ -60,4 +60,8 @@ echo "Installing the theme"
 ./autogen.sh --prefix=/usr
 sudo make install
 
+
+echo "My advice is to copy/paste the created folders in /usr/share/themes"
+echo "Arc, Arc Dark and Arc Darker to your own hidden folder ~/.themes"
+echo "Change the name of the directory but also the names inside the index.theme."
 echo "Go and select the new theme."

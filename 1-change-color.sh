@@ -60,14 +60,16 @@ echo "e.g. sudo apt-get install gpick"
 echo "Changing ....."
 echo "Wait for it ...."
 
-# making sure all hex codes are in capital letters
-# colour blue 5294e2 from github Arc
+# These lines will make sure all hex codes are in capital letters
+# This the colour blue (5294e2) from github Arc
+# DO NOT CHANGE THESE LINES START
 oldcolour1=5294e2
 newcolour1=5294E2
 find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+# DO NOT CHANGE THESE LINES STOP
 
-# changing the colour blue into ...
-
+# Changing the colour blue into ...
+# Change the colour of newcolour1 ONLY
 oldcolour1=5294E2
 #colour orange = sun = C77320
 newcolour1=C77320
@@ -79,6 +81,7 @@ newcolour1=C77320
 find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
 
-echo
+echo "All css files but also svg files will be affected"
+echo "PNG'S will not be altered with this script"
 echo
 echo "Next up delete all assets i.e. png's with script number 2"
