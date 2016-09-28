@@ -181,6 +181,30 @@ Other options to pass to autogen.sh are
                                Note: Normally the correct version is detected automatically and this
                                option should not be needed.
 
+
+**5. Copy and rename the theme**
+
+If all went well you will find the result in this directory
+
+    /usr/share/themes !!
+
+It has now the standard name Arc, Arc-Dark and Arc-Darker.
+
+
+We will run the last script nr 5
+
+	- to rename the folders 
+	- to move the folders to ~/.themes
+	- to change the content of the three index.themes
+
+Follow the instructions in the script. It will ask for the name to add behind these standard names.
+
+	Arc-Sun for example
+
+
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
+
+
 # Watch out
 
 If you forget to type 
