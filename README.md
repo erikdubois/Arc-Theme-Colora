@@ -219,45 +219,14 @@ Run this last script
 	6-clean-up-usr-share-themes.sh
 
 
+# Select the new theme
 
 
-# Watch out
-
-If you forget to type 
-
-    --prefix=/usr
-
-Then the themes can be found here : 
-
-    /usr/local/share/themes
-
-Otherwise the themes will be installed in 
-
-    /usr/share/themes
-
-
-#You have to change the names manually.
-
-Easier than looking in the files where to change what.
-
-I move them manually from 
-
-    /usr/share/themes 
-    to 
-    ~/.themes
-
-were I can make further enhancements and changes.
-
-Rename the <b>folders</b> so that they are unique. E.g. Arc-Sun
-
-Change the <b>index.theme</b> so that the names of the theme are the same as the folder. E.g. Arc-Sun
-
-
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme and `Arc-Sun` or `Arc-Dark-Sun` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme.
 
 
 
-# Uninstall the theme
+# Uninstall the theme manually
 
 If you renamed the theme to Arc-Sun for example
 
@@ -267,41 +236,7 @@ If you renamed the theme to Arc-Sun for example
     rm -rf ~/.themes/{Arc-Sun,Arc-Darker-Sun,Arc-Dark-Sun}
 
 
-### Extras
-
-This will be the next job on my agenda... Nothing beneath here has changed in reference to the github of horst3180.
-
-#### Arc Firefox theme
-A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
-
-#### Arc icon theme
-The Arc icon theme is available at https://github.com/horst3180/arc-icon-theme
-
-#### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the arc-theme.crx or arc-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/arc-theme" folder.
-
-#### Plank theme
-To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
-Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
-
-#### Arc-Dark for Ubuntu Software Center
-The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
-
-### Troubleshooting
-
-If you have Ubuntu with a newer GTK/Gnome version than the one included by default (i.e Ubuntu 14.04 with GTK 3.14 or Ubuntu 15.04 with GTK 3.16, etc.) the prebuilt packages won't work properly and you have to install the theme manually as described above.
-This is also true for other distros with a different GTK/Gnome version than the one included by default
-
---
-
-If you get artifacts like black or invisible backgrounds under Unity, disable overlay scrollbars with
-
-    gsettings set com.canonical.desktop.interface scrollbar-mode normal
+Report any issues on google+ or on this github.
 
 
-### Bug reporting
-If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
-
-### License
-Arc is available under the terms the GPL-3.0. See `COPYING` for details.
-
+Enjoy.
