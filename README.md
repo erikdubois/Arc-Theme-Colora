@@ -98,6 +98,7 @@ A screenshot of the Arc-Dark-Sun theme
 
 
 To build the arc theme you'll need following applications.
+
 <b>We will install them via script 3.</b>
 
     * `optipng`
