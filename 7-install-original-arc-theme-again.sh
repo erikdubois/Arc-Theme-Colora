@@ -54,54 +54,17 @@
 #
 ##################################################################################################################
 
-echo "Installing extra software"
+#https://github.com/horst3180/arc-theme
 
-sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev inkscape optipng
+sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
+git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd /tmp/arc-theme
+./autogen.sh --prefix=/usr
+sudo make install
+rm -rf /tmp/arc-theme
 
-echo "It is time for you to take a coffee."
-echo "It will take as long as it takes depending on cpu etc..."
-
-
-echo "making the assets of gtk-2.0"
-echo
-cd common/gtk-2.0
-echo "making the assets of gtk-2.0/render-assets"
-echo
-sh render-assets.sh
-echo "making the assets of gtk-2.0/render-dark-assets"
-echo
-sh render-dark-assets.sh
-echo "making the assets of gtk-3.0"
-echo
-cd ../gtk-3.0/3.14/
-echo "making the assets of gtk-3.0/3.14"
-echo
-sh render-assets.sh
-cd ../3.16/
-echo "making the assets of gtk-3.0/3.16"
-echo
-sh render-assets.sh
-cd ../3.18/
-echo "making the assets of gtk-3.0/3.18"
-echo
-sh render-assets.sh
-cd ../3.20/
-echo "making the assets of gtk-3.0/3.20"
-echo
-sh render-assets.sh
-cd ../../xfwm4
-echo "making the assets of xfwm4"
-echo
-sh render-assets.sh
+# sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
 
-echo "All assets have been made."
-echo "Svg's have been exported from the assets svg files"
-echo "and converted to png's"
-echo
-echo "Next up is installing the icon theme."
-echo
-echo "Run script number 4 to install the themes."
-echo
-echo "Your themes will be installed in /usr/share/themes"
-echo "If you have already the arc theme, it will be overwritten."
+echo "################################################################"
+echo "###################    T H E   E N D      ######################"
+echo "################################################################"

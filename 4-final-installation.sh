@@ -55,13 +55,19 @@
 ##################################################################################################################
 
 echo "This is it."
-echo "Installing the theme"
+echo "Installing your theme in /usr/share/themes"
+echo "If there is already an Arc theme installed, it will be overwritten."
 
 ./autogen.sh --prefix=/usr
 sudo make install
 
 
-echo "My advice is to copy/paste the created folders in /usr/share/themes"
-echo "Arc, Arc Dark and Arc Darker to your own hidden folder ~/.themes"
-echo "Change the name of the directory but also the names inside the index.theme."
-echo "Go and select the new theme."
+echo "The script from Arc will add the folders Arc, Arc-Dark and Arc-Darker to /usr/share/themes."
+echo "In effect it will overwrite the original Arc theme if you had it installed."
+echo "If you want to rename the theme in order to get back the original (blue) Arc theme,"
+echo "then we will have to rename the folders Arc, Arc-Dark and Arc-Darker to something unique and"
+echo "copy them to our own hidden folder ~/.themes. Here we will be able to make small changes if need be."
+echo "Run script 5 to copy and rename the themes."
+echo "Then you can either delete your personal creation in the /usr/share/themes folders - run script 6"
+echo "or reinstall the original arc theme again with the blue accents - run script 7"
+echo "Script 7 will overwrite your personal creation with the standard Arc blue colouring."

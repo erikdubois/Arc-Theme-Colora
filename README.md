@@ -214,9 +214,19 @@ If you want to erase the original files in the folder
 
 	/usr/share/themes
 
-Run this last script
+Run this script
 
 	6-clean-up-usr-share-themes.sh
+
+
+
+**7. Reinstall the latest version of the original Arc theme**
+
+The way the script of horst is working, it will make (and overwrite) folders Arc, Arc-Dark and Arc-Darker in the /usr/share/themes. So when we run our script to change the colours, the output of this personal creation will be /usr/share/themes.
+
+If you want the original Arc theme back. Just run this script
+
+    7-install-original-arc-theme-again.sh
 
 
 # Select the new theme
