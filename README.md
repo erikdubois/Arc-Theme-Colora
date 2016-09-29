@@ -219,9 +219,9 @@ Run this script
 
 
 
-**7. Reinstall the latest version of the original Arc theme**
+**7. If you want to reinstall the latest version of the original Arc theme**
 
-The way the script of horst is working, it will make (and overwrite) folders Arc, Arc-Dark and Arc-Darker in the /usr/share/themes. So when we run our script to change the colours, the output of this personal creation will be /usr/share/themes.
+The script of horst3180  will make (and overwrite) folders Arc, Arc-Dark and Arc-Darker in the /usr/share/themes. So when we ran our script to change the colours, the output of this personal creation will be in /usr/share/themes.
 
 If you want the original Arc theme back. Just run this script
 
