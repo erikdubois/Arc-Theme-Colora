@@ -140,7 +140,7 @@ Let us run the scripts.
 **1. Change the colour**
 
 Use the script to change the colour. Find yourself a nice colour on gpick or online.
-It should be a hexadecimal notation. Read the script for more info.
+It should be a hexadecimal notation WITHOUT the #. Read the script for more info.
 
 	1-change-colors.sh
 
