@@ -127,7 +127,11 @@ Get the latest version from Arc Colora, clone the repository with
 
     git clone https://github.com/erikdubois/arc-theme-colora
 
-Copy/paste all the scripts (.sh) inside the directory 
+Copy/paste all scripts inside the directory 
+
+    arc-theme-colora
+
+to 
 
     arc-theme
 
