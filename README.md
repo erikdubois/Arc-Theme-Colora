@@ -92,18 +92,13 @@ A screenshot of the Arc-Dark-Sun theme
 
 ### Installation
 
-**Important:** Remove all older versions of the theme from your system before you proceed any further.
+**Important:** The script of Horst3180 is build this way that the output will be to /usr/share/themes and that the directories will be called Arc, Arc-Dark and Arc-Darker. If you have already Arc installed. **It will be overwritten.**
 
-The result of the scripts of Horst will be called Arc, Arc-Darker, Arc-Dark no matter what colour you choose.
-Rename the folders to a new colouring name.
+**But we have a script to reinstall the original arc theme at the end.**
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
-If you do not, remove them, my guess is that they will be overwritten. And I guess it will leave some residual code from the old version.
-
-To build the theme you'll need following applications. <b>We will install them via script 3.</b>
+To build the arc theme you'll need following applications.
+<b>We will install them via script 3.</b>
 
     * `optipng`
     * `inkscape`
@@ -113,7 +108,6 @@ To build the theme you'll need following applications. <b>We will install them v
     * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
     * `git` if you want to clone the source directory
 
-      or sudo apt-get install ...
 
 
 #Install the theme with the following scripts
