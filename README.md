@@ -113,6 +113,13 @@ To build the arc theme you'll need following applications.
 
 #Install the theme with the following scripts
 
+
+###A youtube tutorial can be found here :
+
+###http://erikdubois.be/change-colour-arc-theme-horst3180/
+
+
+
 **0. Get the source**
 
 First install git 
