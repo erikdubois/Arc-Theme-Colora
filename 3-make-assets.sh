@@ -105,3 +105,4 @@ echo "Run script number 4 to install the themes."
 echo
 echo "Your themes will be installed in /usr/share/themes"
 echo "If you have already the arc theme, it will be overwritten."
+echo "Do not worry we can install the original arc theme again."

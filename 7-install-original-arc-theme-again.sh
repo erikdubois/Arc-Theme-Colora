@@ -56,6 +56,8 @@
 
 #https://github.com/horst3180/arc-theme
 
+echo "Installing the origal arch theme from github."
+
 sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
 git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd /tmp/arc-theme
 ./autogen.sh --prefix=/usr
@@ -64,6 +66,7 @@ rm -rf /tmp/arc-theme
 
 # sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
+echo "The original arc theme is installed. Select Arc, Arc-Dark or Arc-Darker."
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

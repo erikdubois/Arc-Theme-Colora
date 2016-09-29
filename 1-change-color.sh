@@ -62,17 +62,29 @@ echo "Wait for it ...."
 
 # These lines will make sure all hex codes are in capital letters
 # This the colour blue (5294e2) from github Arc
-# DO NOT CHANGE THESE LINES START
+# DO NOT CHANGE THESE LINES
 oldcolour1=5294e2
 newcolour1=5294E2
 find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
-# DO NOT CHANGE THESE LINES STOP
-
 # Changing the colour blue into ...
 # Change the colour of newcolour1 ONLY
 oldcolour1=5294E2
 #colour orange = sun = C77320
+
+
+
+
+
+#########################################################
+################ CHANGE ONLY THIS CODE ##################
+#########################################################
 newcolour1=C77320
+#########################################################
+############ NO HASHTAG BEFORE COLOUR CODE ##############
+#########################################################
+
+
+
 
 
 # all css files but also svg files will be affected

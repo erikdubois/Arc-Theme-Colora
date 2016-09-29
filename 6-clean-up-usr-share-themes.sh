@@ -56,6 +56,6 @@
 
 sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
-echo "The themes have been removed from /usr/share/themes."
+echo "The arc themes have been removed from /usr/share/themes."
 
 
