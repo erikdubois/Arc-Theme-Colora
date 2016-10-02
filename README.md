@@ -256,6 +256,11 @@ After the installation is complete you can activate the theme with your theme ma
 ![Screenshots](http://i.imgur.com/eglrK8U.jpg)
 
 
+## Solus Budgie
+
+![Screenshots](http://i.imgur.com/grzCgQ1.jpg)
+
+
 # Uninstall the theme manually
 
 If you renamed the theme to Arc-Sun for example
