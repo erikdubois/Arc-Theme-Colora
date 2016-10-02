@@ -17,7 +17,7 @@ Source can be found at https://github.com/horst3180/
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
-##These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
+###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
 Each time I run these scripts, I renamed the result from 
