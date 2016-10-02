@@ -113,7 +113,7 @@ To build the arc theme you'll need following applications.
     * `autoconf`
     * `automake`
     * `pkg-config` or `pkgconfig` if you use Fedora
-    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
+    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` (RPM) and `libgtk-3-devel` in solus
     * `git` if you want to clone the source directory
 
 
