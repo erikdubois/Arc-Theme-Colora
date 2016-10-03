@@ -263,6 +263,8 @@ After the installation is complete you can activate the theme with your theme ma
 
 ## Ubuntu 16.04
 
+On top of the yellow arc theme I made a new icon theme from sardi mono numix colora where the body is the same colour as the yellow from the theme.
+
 ![Screenshots](http://i.imgur.com/tzcv0r6.png)
 
 
