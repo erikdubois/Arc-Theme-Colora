@@ -5,7 +5,7 @@ Source can be found at https://github.com/horst3180/
 
 ###A youtube tutorial can be found here :
 
-###http://erikdubois.be/change-colour-arc-theme-horst3180/
+###http://erikdubois.be/category/themes/arc-based-themes/
 
 
 [Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
