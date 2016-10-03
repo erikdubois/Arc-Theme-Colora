@@ -261,6 +261,13 @@ After the installation is complete you can activate the theme with your theme ma
 ![Screenshots](http://i.imgur.com/grzCgQ1.jpg)
 
 
+## Ubuntu 16.04
+
+![Screenshots](http://i.imgur.com/tzcv0r6.png)
+
+
+
+
 # Uninstall the theme manually
 
 If you renamed the theme to Arc-Sun for example
