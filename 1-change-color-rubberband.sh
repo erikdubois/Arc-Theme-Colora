@@ -70,7 +70,7 @@ rgbacolour="$reddec, $greendec, $bluedec"
 oldcolour1="38, 121, 219"
 newcolour1=$rgbacolour
 
-find common -type f -exec sed -i "s/'$oldcolour1'/'$newcolour1'/g" {}  \;
+find common -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
 
 
 echo "All css files but also svg files will be affected"
