@@ -29,21 +29,21 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="#454C5C" />
-<constant name="C_button_bg_active" value="#C77320" />
+<constant name="C_button_bg_active" value="#ef7e2c" />
 
 <constant name="C_button_border_hover" value="#262932" />
 
 <constant name="C_icon_bg_focused" value="#90939B" />
 <constant name="C_icon_bg_unfocused" value="#666A74" />
 <constant name="C_icon_bg_hover" value="#C4C7CC" />
-<constant name="C_icon_bg_active" value="#ffffff" />
+<constant name="C_icon_bg_active" value="#ef7e2c" />
 
 <!-- geometries -->
 
 <frame_geometry name="normal" title_scale="medium" rounded_top_left="1" rounded_top_right="1">
-	<distance name="left_width" value="0" />
-	<distance name="right_width" value="0" />
-	<distance name="bottom_height" value="0" />
+	<distance name="left_width" value="1" />
+	<distance name="right_width" value="1" />
+	<distance name="bottom_height" value="3" />
 	<distance name="left_titlebar_edge" value="2"/>
 	<distance name="right_titlebar_edge" value="2"/>
 	<distance name="title_vertical_pad" value="3"/>
@@ -58,6 +58,7 @@
 <frame_geometry name="max" title_scale="medium" parent="normal" rounded_top_left="false" rounded_top_right="false">
 	<distance name="left_width" value="0" />
 	<distance name="right_width" value="0" />
+	<distance name="bottom_height" value="0" />
 	<distance name="left_titlebar_edge" value="0"/>
 	<distance name="right_titlebar_edge" value="0"/>
 	<distance name="title_vertical_pad" value="2"/> <!-- 
