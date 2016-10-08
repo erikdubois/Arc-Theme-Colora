@@ -22,25 +22,24 @@ echo "Wait for it ...."
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
+
 oldcolour1=5294e2
 newcolour1=5294E2
-find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+#find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+oldcolour1=5294E2
+
 # Changing the colour blue into ...
 # Change the colour of newcolour1 ONLY
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
-oldcolour1=5294E2
-#colour orange = sun = C77320
-
-
-
 
 
 #########################################################
 ################ CHANGE ONLY THIS CODE ##################
 #########################################################
-newcolour1=C77320
+newcolour1=FD424D
 #########################################################
 ############ NO HASHTAG BEFORE COLOUR CODE ##############
 #########################################################
@@ -48,12 +47,15 @@ newcolour1=C77320
 
 
 
-
+# DO NOT CHANGE THESE LINES
+# DO NOT CHANGE THESE LINES
 # all css files but also svg files will be affected
 # NOT PNG'S
 
-find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
+# DO NOT CHANGE THESE LINES
+# DO NOT CHANGE THESE LINES
 
 echo "All css files but also svg files will be affected"
 echo "PNG'S will not be altered with this script"
