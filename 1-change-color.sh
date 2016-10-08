@@ -54,6 +54,13 @@ newcolour1=FD424D
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
+#Rubberband issue
+
+#oldcolour1=2679db
+#not solved yet
+#find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
 
