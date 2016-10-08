@@ -54,12 +54,13 @@ newcolour1=FD424D
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
-#Rubberband issue
+#Rubberband issue NOT SOLVED YET STILL BLUE FROM ARC
 
 #oldcolour1=2679db
 #not solved yet
 #find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
-
+#called rubberband in the css
+#only partially solved - border will change but not the background in rgba
 
 # DO NOT CHANGE THESE LINES
 # DO NOT CHANGE THESE LINES
