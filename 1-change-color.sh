@@ -17,23 +17,16 @@ echo "e.g. sudo apt-get install gpick"
 echo "Changing ....."
 echo "Wait for it ...."
 
+# DO NOT CHANGE THESE LINES FROM HERE ONWARDS
 # These lines will make sure all hex codes are in capital letters
 # This the colour blue (5294e2) from github Arc
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
-
 oldcolour1=5294e2
 newcolour1=5294E2
-#find common -name "*.*" -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+# setting oldcolour1 now with a capital letter
 oldcolour1=5294E2
 
-# Changing the colour blue into ...
-# Change the colour of newcolour1 ONLY
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
+
 
 
 #########################################################
@@ -47,23 +40,38 @@ newcolour1=FD424D
 
 
 
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
+
+# DO NOT CHANGE THESE LINES FROM HERE ONWARDS
 # all css files but also svg files will be affected
 # NOT PNG'S
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
-#Rubberband issue NOT SOLVED YET STILL BLUE FROM ARC
 
-#oldcolour1=2679db
-#not solved yet
-#find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
-#called rubberband in the css
-#only partially solved - border will change but not the background in rgba
+#Rubberband Solution for now
 
-# DO NOT CHANGE THESE LINES
-# DO NOT CHANGE THESE LINES
+#border
+oldcolour1=2679db
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+#background of rubberband is in rgba
+#from hex to decimal
+redhex=${newcolour1:0:2}
+greenhex=${newcolour1:2:2}
+bluehex=${newcolour1:4:2}
+
+reddec=$((16#$redhex))
+greendec=$((16#$greenhex))
+bluedec=$((16#$bluehex))
+
+rgbacolour="$reddec, $greendec, $bluedec"
+
+#old rgba colour of background rubberband
+oldcolour1="38, 121, 219"
+newcolour1=$rgbacolour
+
+find common -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
+
 
 echo "All css files but also svg files will be affected"
 echo "PNG'S will not be altered with this script"
