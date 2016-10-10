@@ -101,6 +101,12 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/b11ABjo.jpg)
 
+
+##A screenshot of the Arc-Dark-Tron theme
+
+![Screenshots](http://i.imgur.com/BtrFo6W.jpg)
+
+
 ### Installation
 
 **Important:** The script of Horst3180 is build this way that the output will be to /usr/share/themes and that the directories will be called Arc, Arc-Dark and Arc-Darker. If you have already Arc installed. **It will be overwritten.**
