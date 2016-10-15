@@ -77,6 +77,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
 
+##A screenshot of the Arc-Dark-Moon theme
+
+![Screenshots](http://i.imgur.com/tzdUuax.jpg)
+
 ##A screenshot of the Arc-Dark-Polo theme
 
 ![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
