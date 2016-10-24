@@ -105,10 +105,17 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/b11ABjo.jpg)
 
-
 ##A screenshot of the Arc-Dark-Tron theme
 
 ![Screenshots](http://i.imgur.com/BtrFo6W.jpg)
+
+##A screenshot of the Arc-Dark-Orchid theme
+
+![Screenshots](http://i.imgur.com/qCTWLZy.jpg)
+
+##A screenshot of the Arc-Dark-Watusi theme
+
+![Screenshots](http://i.imgur.com/9RMtJxo.jpg)
 
 
 ### Installation
