@@ -131,7 +131,7 @@ A screenshot of the Arc-Dark-Sun theme
 
 To build the arc theme you'll need following applications.
 
-<b>We will install them via script 3.</b>
+<b>We will install them via script 0.</b>
 
     * `optipng`
     * `inkscape`
@@ -141,7 +141,7 @@ To build the arc theme you'll need following applications.
     * `libgtk-3-dev` for Debian based distros or `gtk3-devel` (RPM) and `libgtk-3-devel` in Solus
     * `git` if you want to clone the source directory
 
-There are several tutorial articles on several distro's: 
+There are several tutorial articles about arc colora on several distro's: 
 
 	* Linux Mint
 	* Ubuntu
