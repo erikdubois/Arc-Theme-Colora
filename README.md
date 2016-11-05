@@ -117,6 +117,10 @@ A screenshot of the Arc-Dark-Sun theme
 
 ![Screenshots](http://i.imgur.com/9RMtJxo.jpg)
 
+##A screenshot of the Arc-Dark-Grenadine theme
+
+![Screenshots](http://i.imgur.com/j2nABVI.jpg)
+
 
 ### Installation
 
