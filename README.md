@@ -164,7 +164,15 @@ http://erikdubois.be/category/themes/arc-based-themes/
 
 First install git 
 
-	sudo apt-get install git
+    Debian based
+	sudo apt install git
+
+    Arch based
+    sudo pacman -S git
+
+    Solus based
+    sudo eopkg it git
+
 
 Get the latest version from Horst - Arc Theme, clone the repository with
 
