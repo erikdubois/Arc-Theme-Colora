@@ -11,9 +11,7 @@
 #
 ##################################################################################################################
 
-echo "Installing extra software"
-
-sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev inkscape optipng
+echo "Did you install script 0 - all needed software for the correct distro?"
 
 echo "It is time for you to take a coffee."
 echo "It will take as long as it takes depending on cpu etc..."

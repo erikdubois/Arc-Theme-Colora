@@ -138,8 +138,16 @@ To build the arc theme you'll need following applications.
     * `autoconf`
     * `automake`
     * `pkg-config` or `pkgconfig` if you use Fedora
-    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` (RPM) and `libgtk-3-devel` in solus
+    * `libgtk-3-dev` for Debian based distros or `gtk3-devel` (RPM) and `libgtk-3-devel` in Solus
     * `git` if you want to clone the source directory
+
+There are several tutorial articles on several distro's: 
+
+	* Linux Mint
+	* Ubuntu
+	* Solus Budgie 
+
+http://erikdubois.be/category/themes/arc-based-themes/
 
 
 
@@ -175,6 +183,11 @@ to
     arc-theme
 
 Let us run the scripts.
+
+**0. Install the software you will need**
+
+Choose your distro and run the script to install your applications.
+
 
 **1. Change the colour**
 
