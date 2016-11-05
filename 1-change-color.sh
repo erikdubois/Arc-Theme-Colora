@@ -32,7 +32,7 @@ oldcolour1=5294E2
 #########################################################
 ################ CHANGE ONLY THIS CODE ##################
 #########################################################
-newcolour1=FD424D
+newcolour1=a82b1f
 #########################################################
 ############ NO HASHTAG BEFORE COLOUR CODE ##############
 #########################################################
@@ -47,6 +47,13 @@ newcolour1=FD424D
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
+
+# issue of hover button on Solus and Gnome-tweak-tool
+#  .list-row.button:selected:hover {
+#    background-color: #4a85cb;
+
+oldcolour1=4a85cb
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
 #Rubberband Solution for now
 
