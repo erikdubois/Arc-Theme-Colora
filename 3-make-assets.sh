@@ -23,9 +23,9 @@ cd common/gtk-2.0
 echo "making the assets of gtk-2.0/render-assets"
 echo
 sh render-assets.sh
-echo "making the assets of gtk-2.0/render-dark-assets"
-echo
-sh render-dark-assets.sh
+#echo "making the assets of gtk-2.0/render-dark-assets"
+#echo
+#sh render-dark-assets.sh
 echo "making the assets of gtk-3.0"
 echo
 cd ../gtk-3.0/3.14/
