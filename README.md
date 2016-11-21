@@ -35,6 +35,10 @@ If you run the scripts on the latest version of the github of Horst <b>then</b> 
 
 # Just want to download the themes not build them.
 
+THEMES ARE MADE ON LINUX MINT 18 AND ARE BUILD FOR LINUX MINT.
+
+On other githubs I do have some specifice Arc Colora themes for that distro when I test the script.
+
 Building takes approx. 20 minutes.
 
 Check the folder <b>themes</b> : 
@@ -120,6 +124,10 @@ A screenshot of the Arc-Dark-Sun theme
 ##A screenshot of the Arc-Dark-Grenadine theme
 
 ![Screenshots](http://i.imgur.com/j2nABVI.jpg)
+
+##A screenshot of the Arc-Dark-Violet theme
+
+![Screenshots](http://i.imgur.com/X10vCOE.jpg)
 
 
 ### Installation
