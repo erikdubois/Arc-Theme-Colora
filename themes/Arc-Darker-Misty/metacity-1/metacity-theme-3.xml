@@ -29,7 +29,7 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#fdfdfd)" />
-<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#a1a1a1)" />
+<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#5294E2)" />
 
 <constant name="C_button_border_hover" value="gtk:custom(wm_button_hover_border,#D1D3DA)" />
 
