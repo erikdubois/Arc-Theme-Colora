@@ -1,14 +1,12 @@
 # Arc-Colora Theme
 
 ##The goal is to make scripts that make it easy to change the colours of the Arc-Theme
-Source can be found at https://github.com/horst3180/
+The arc theme can be found at https://github.com/horst3180/
 
-###A youtube tutorial can be found here :
+###Many articles and youtube tutorials can be found here :
 
 ###http://erikdubois.be/category/themes/arc-based-themes/
 
-
-[Sardi icons](https://sourceforge.net/projects/sardi/files/) uses also the term COLORA to indicate that the icons can be ANY colour. Hope this will be more transparent to the end-user.
 
 ##Arc COLORA is capable to have ANY colour YOU like.
 
