@@ -1,16 +1,16 @@
 # Arc-Colora Theme
 
-##The goal is to make scripts that make it easy to change the colours of the Arc-Theme
+The goal is to make scripts that make it easy to change the colours of the Arc-Theme
 
-##Arc COLORA is capable to have ANY colour YOU like.
+#Arc COLORA is capable to have ANY colour YOU like.
 
-###Many articles and youtube tutorials can be found here :
+Many articles and youtube tutorials can be found here :
 
-###http://erikdubois.be/category/themes/arc-based-themes/
+http://erikdubois.be/category/themes/arc-based-themes/
 
 The arc theme can be found at https://github.com/horst3180/
 
-##Create your own colour accent theme with these scripts.
+#Create your own colour accent theme with these scripts.
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
