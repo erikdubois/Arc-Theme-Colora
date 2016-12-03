@@ -112,6 +112,8 @@ Let us run the scripts.
 
 Choose your distro and run the script to install your applications.
 
+    0-install-all-needed-software-for-xxxx.sh
+
 
 **1. Change the colour**
 
