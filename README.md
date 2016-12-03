@@ -2,7 +2,7 @@
 
 The goal is to make scripts that make it easy to change the colours of the Arc-Theme
 
-#""Arc COLORA is capable to have ANY colour YOU like.
+###Arc COLORA is capable to have ANY colour YOU like.
 
 Many articles and youtube tutorials can be found here :
 
