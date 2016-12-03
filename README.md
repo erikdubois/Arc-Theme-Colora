@@ -117,7 +117,7 @@ Choose your distro and run the script to install your applications.
 
 **1. Change the colour**
 
-Use the script to change the colour. Find yourself a nice colour on gpick or online.
+Use the script to change the colour. Find yourself a nice colour with gpick or online.
 It should be a hexadecimal notation WITHOUT the #. Read the script for more info.
 
 	1-change-colors.sh
@@ -131,7 +131,7 @@ Old png's will have to be deleted. They are still the original blue ones. Read t
 
 **3. Make new assets or png's**
 
-This is the most important part. New png's will be created with your colour.
+This is the most important part. New png's will be created with your colour. This takes time.
 
 	3-make-assets.sh
 
