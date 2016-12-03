@@ -1,6 +1,6 @@
 # Arc-Colora Theme
 
-The goal is to make scripts that make it easy to change the colours of the Arc-Theme
+The goal is to make scripts that make it easy to change the 'accent' colours of the Arc-Theme.
 
 ###Arc COLORA is capable to have ANY colour YOU like.
 
