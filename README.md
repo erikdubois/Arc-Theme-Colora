@@ -18,7 +18,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 ###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
-Each time I run these scripts, I renamed the result from 
+Each time I run these scripts, I added a name of the colour behind it 
 
     Arc to Arc-Sun
     Arc-Dark to Arc-Dark-Sun
@@ -26,106 +26,16 @@ Each time I run these scripts, I renamed the result from
 
 Sun is just the name of the colour. You can choose any name.
 
-Other names and themes that I created are in the themes <b>folder</b>. They are always 'old'.
-
 If you run the scripts on the latest version of the github of Horst <b>then</b> you will have the most recent version with the latest bug fixes.
 
 
 # Just want to download the themes not build them.
 
-THEMES ARE MADE ON LINUX MINT 18 AND ARE BUILD FOR LINUX MINT.
+Linux Mint users download here : https://github.com/erikdubois/Arc-Theme-Colora-Collection
 
 On other githubs I do have some specifice Arc Colora themes for that distro when I test the script.
 
-Building takes approx. 20 minutes.
-
-Check the folder <b>themes</b> : 
-
-Here is what you can download: 
-
-All of them have three variants. Not only the Dark version.
-
-##Arc-Sun
-
-A screenshot of the Arc-Sun theme
-
-![Screenshots](http://i.imgur.com/ck1grBn.jpg)
-
-##Arc-Dark-Sun
-
-A screenshot of the Arc-Darker-Sun theme]
-
-![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
-
-###Arc-Darker-Sun
-
-A screenshot of the Arc-Dark-Sun theme
-
-![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
-
-##A screenshot of the Arc-Dark-Fab theme
-
-![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
-
-##A screenshot of the Arc-Dark-Luv theme
-
-![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
-
-##A screenshot of the Arc-Dark-Tomato theme
-
-![Screenshots](http://i.imgur.com/jhuHWu8.png)
-
-##A screenshot of the Arc-Dark-Froly theme
-
-![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
-
-##A screenshot of the Arc-Dark-Moon theme
-
-![Screenshots](http://i.imgur.com/tzdUuax.jpg)
-
-##A screenshot of the Arc-Dark-Polo theme
-
-![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
-
-##A screenshot of the Arc-Dark-Numix theme
-
-![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
-
-##A screenshot of the Arc-Dark-Evopop theme
-
-![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
-
-##A screenshot of the Arc-Dark-Paper theme
-
-![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
-
-##A screenshot of the Arc-Dark-Breeze theme
-
-![Screenshots](http://i.imgur.com/M90Lv19.jpg)
-
-##A screenshot of the Arc-Dark-Crimson theme
-
-![Screenshots](http://i.imgur.com/b11ABjo.jpg)
-
-##A screenshot of the Arc-Dark-Tron theme
-
-![Screenshots](http://i.imgur.com/BtrFo6W.jpg)
-
-##A screenshot of the Arc-Dark-Orchid theme
-
-![Screenshots](http://i.imgur.com/qCTWLZy.jpg)
-
-##A screenshot of the Arc-Dark-Watusi theme
-
-![Screenshots](http://i.imgur.com/9RMtJxo.jpg)
-
-##A screenshot of the Arc-Dark-Grenadine theme
-
-![Screenshots](http://i.imgur.com/j2nABVI.jpg)
-
-##A screenshot of the Arc-Dark-Violet theme
-
-![Screenshots](http://i.imgur.com/X10vCOE.jpg)
+Again just run the scripts on your distro. Depending on cpu power etc it will take about 10-15 minutes.
 
 
 ### Installation
@@ -298,6 +208,95 @@ If you want the original Arc theme back. Just run this script
 
 
 After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme.
+
+
+# Themes created with this script
+
+Download them here : https://github.com/erikdubois/Arc-Theme-Colora-Collection
+
+
+##Arc-Sun
+
+A screenshot of the Arc-Sun theme
+
+![Screenshots](http://i.imgur.com/ck1grBn.jpg)
+
+##Arc-Dark-Sun
+
+A screenshot of the Arc-Darker-Sun theme]
+
+![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
+
+###Arc-Darker-Sun
+
+A screenshot of the Arc-Dark-Sun theme
+
+![Screenshots](http://i.imgur.com/lVF7Wj0.jpg)
+
+##A screenshot of the Arc-Dark-Fab theme
+
+![Screenshots](http://i.imgur.com/PbRDWxU.jpg)
+
+##A screenshot of the Arc-Dark-Luv theme
+
+![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
+
+##A screenshot of the Arc-Dark-Tomato theme
+
+![Screenshots](http://i.imgur.com/jhuHWu8.png)
+
+##A screenshot of the Arc-Dark-Froly theme
+
+![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
+
+##A screenshot of the Arc-Dark-Moon theme
+
+![Screenshots](http://i.imgur.com/tzdUuax.jpg)
+
+##A screenshot of the Arc-Dark-Polo theme
+
+![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
+
+##A screenshot of the Arc-Dark-Numix theme
+
+![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
+
+##A screenshot of the Arc-Dark-Evopop theme
+
+![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
+
+##A screenshot of the Arc-Dark-Paper theme
+
+![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
+
+##A screenshot of the Arc-Dark-Breeze theme
+
+![Screenshots](http://i.imgur.com/M90Lv19.jpg)
+
+##A screenshot of the Arc-Dark-Crimson theme
+
+![Screenshots](http://i.imgur.com/b11ABjo.jpg)
+
+##A screenshot of the Arc-Dark-Tron theme
+
+![Screenshots](http://i.imgur.com/BtrFo6W.jpg)
+
+##A screenshot of the Arc-Dark-Orchid theme
+
+![Screenshots](http://i.imgur.com/qCTWLZy.jpg)
+
+##A screenshot of the Arc-Dark-Watusi theme
+
+![Screenshots](http://i.imgur.com/9RMtJxo.jpg)
+
+##A screenshot of the Arc-Dark-Grenadine theme
+
+![Screenshots](http://i.imgur.com/j2nABVI.jpg)
+
+##A screenshot of the Arc-Dark-Violet theme
+
+![Screenshots](http://i.imgur.com/X10vCOE.jpg)
+
 
 
 # Script can run on a variety of distro's.
