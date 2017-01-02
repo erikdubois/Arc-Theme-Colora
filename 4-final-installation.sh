@@ -21,6 +21,11 @@ echo "We can reinstall the original arc theme again."
 sudo make install
 
 
+#temporary solution to fix this issue only for gtk2 applications like sublime text
+sudo cp -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark/* /usr/share/themes/Arc-Dark/gtk-2.0/assets/
+sudo rm -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark
+
+
 echo "The script from Arc will add the folders Arc, Arc-Dark and Arc-Darker to /usr/share/themes."
 echo "In effect it will overwrite the original Arc theme if you had it installed."
 echo "If you want the original (blue) Arc theme back again, then we will have to rename our newly created folders"
