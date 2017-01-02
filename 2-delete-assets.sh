@@ -15,6 +15,7 @@ echo "Deleting all assets i.e. png in the common folder"
 
 rm -rf common/gtk-2.0/assets/*
 rm -rf common/gtk-2.0/assets-dark/*
+rm -rf common/gtk-2.0/menubar-toolbar/*
 
 rm -rf common/gtk-3.0/3.14/assets/*
 rm -rf common/gtk-3.0/3.16/assets/*
