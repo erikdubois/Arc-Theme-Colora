@@ -32,7 +32,7 @@ oldcolour1=5294E2
 #########################################################
 ################ CHANGE ONLY THIS CODE ##################
 #########################################################
-newcolour1=a82b1f
+newcolour1=5294E2
 #########################################################
 ############ NO HASHTAG BEFORE COLOUR CODE ##############
 #########################################################
@@ -45,8 +45,12 @@ newcolour1=a82b1f
 # all css files but also svg files will be affected
 # NOT PNG'S
 
+echo "Fix 1"
+
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
+
+echo "Fix 2"
 
 # issue of hover button on Solus and Gnome-tweak-tool
 #  .list-row.button:selected:hover {
@@ -55,6 +59,28 @@ find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 oldcolour1=4a85cb
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
+
+
+echo "Fix 3"
+#gnome default button colour
+oldcolour1=4DADD4
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+
+echo "Fix 4"
+#gnome hover button color
+oldcolour1=76c0de
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+
+echo "Fix 5"
+#gnome suggested action button
+oldcolour1=2e96c0
+find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+
+
+echo "Fix 6"
 #Rubberband Solution for now
 
 #border
@@ -79,6 +105,10 @@ newcolour1=$rgbacolour
 
 find common -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
 
+
+
+# watch it at this point newcolour1 is an rgba colour
+# no more scripts behind here unless rgba is needed
 
 echo "All css files but also svg files will be affected"
 echo "PNG'S will not be altered with this script"
