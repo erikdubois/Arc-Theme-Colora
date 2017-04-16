@@ -21,8 +21,8 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 Each time I run these scripts, I added a name of the colour behind it 
 
     Arc to Arc-Sun
-    Arc-Dark to Arc-Dark-Sun
-    Arc-Darker to Arc-Darker-Sun
+    Arc-Dark to Arc-Sun-Dark
+    Arc-Darker to Arc-Sun-Darker
 
 Sun is just the name of the colour. You can choose any name.
 
@@ -115,6 +115,11 @@ Choose your distro and run the script to install your applications.
     0-install-all-needed-software-for-xxxx.sh
 
 
+NOW COPY/PASTE ALL SCRIPTS FROM 1 till 8 to Arc-theme folder from Horst3180.
+The file starting with 8 has been added since April 2017 to support openbox distro's.
+You are not supposed to run number 8 but the scripts need it.
+
+
 **1. Change the colour**
 
 Use the script to change the colour. Find yourself a nice colour with gpick or online.
@@ -179,7 +184,7 @@ Follow the instructions in the script. It will ask for the name to add behind th
 	Arc-Sun for example
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Mint-Y-Sun`, `Mint-Y-Darker-Sun` or `Mint-Y-Dark-Sun` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Sun`, `Arc-Sun-Dark` or `Arc-Sun-Darker` as Window/GTK+ theme. If you named the theme "Sun". That is just an example.
 
 **6. Erase the theme in /usr/share/themes**
 
@@ -206,10 +211,20 @@ If you want the original Arc theme back. Just run this script
     7-install-original-arc-theme-again.sh
 
 
+**8. Openbox theme
+
+As from April 2017 I changed the naming from Arc-Dark-Sun to Arc-Sun-Dark. This improved the readability when you select your theme.
+
+I added also a new file : 8-openbox-themerc
+
+This file is now also required when you run the scripts. It is used for openbox distro's like ARCHLabs.
+You are not supposed to run number 8 but the scripts need it.
+
+
 # Select the new theme
 
 
-After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Darker-Sun` or `Arc-Dark-Sun` as Window/GTK+ theme.
+After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Sun-Darker` or `Arc-Sun-Dark` as Window/GTK+ theme.
 
 
 # Themes created with this script
