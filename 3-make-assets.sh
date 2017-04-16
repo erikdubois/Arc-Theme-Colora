@@ -55,8 +55,6 @@ echo "All assets have been made."
 echo "Svg's have been exported from the assets svg files"
 echo "and converted to png's"
 echo
-echo "Next up is installing the icon theme."
-echo
 echo "Run script number 4 to install the themes."
 echo
 echo "Your themes will be installed in /usr/share/themes"

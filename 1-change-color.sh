@@ -11,10 +11,12 @@
 #
 ##################################################################################################################
 
-echo "All colours in the folder common are still the original blue ones from github!!!"
-echo "Choose your colour that will replace the blue online or with tools like gpick."
+echo "All colours in the folder common are still the original blue ones from github!"
+echo "Choose your colour that will replace the blue colour. Look for the right colour online"
+echo "or look for a colour with tools like gpick."
 echo "Changing ....."
 echo "Wait for it ...."
+echo "It will show you all the fixes ..."
 
 # DO NOT CHANGE THESE LINES FROM HERE ONWARDS
 # These lines will make sure all hex codes are in capital letters

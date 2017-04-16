@@ -13,7 +13,7 @@
 
 
 echo "This is it."
-echo "Installing your theme in /usr/share/themes"
+echo "Installing your personal theme in /usr/share/themes"
 echo "If there is already an Arc theme installed, it will be overwritten."
 echo "We can reinstall the original arc theme again."
 
@@ -21,7 +21,7 @@ echo "We can reinstall the original arc theme again."
 sudo make install
 
 
-#temporary solution to fix this issue only for gtk2 applications like sublime text
+#solution to fix this issue only for gtk2 applications like sublime text
 sudo cp -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark/* /usr/share/themes/Arc-Dark/gtk-2.0/assets/
 sudo rm -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark
 
@@ -44,4 +44,4 @@ echo "Arc, Arc-Dark and Arc-Darker to something unique and copy them to our own 
 echo "Here we will be able to make small changes if need be."
 echo "Run script 5 to copy and rename the themes."
 echo "Run script 6 to delete the personal creation in /usr/share/themes folders"
-echo "Run script 7 to reinstall or install the original arc theme (again) with the blue accents"
+echo "Run script 7 to reinstall or install the original arc theme (again) with the blue accents."

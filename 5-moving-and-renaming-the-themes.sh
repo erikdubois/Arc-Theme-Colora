@@ -48,11 +48,11 @@ find $HOME"/.themes/Arc-"$choice -name "index.theme" -type f -exec sed -i 's/'Na
 find $HOME"/.themes/Arc-"$choice -name "index.theme" -type f -exec sed -i 's/'GtkTheme=Arc'/'GtkTheme=Arc-$choice'/g' {}  \;
 find $HOME"/.themes/Arc-"$choice -name "index.theme" -type f -exec sed -i 's/'MetacityTheme=Arc'/'MetacityTheme=Arc-$choice'/g' {}  \;
 echo "################################################################" 
-echo "The themes have been renamed and moved to your home folder"
+echo "The themes have been renamed and copied to your home folder"
 echo "in the hidden folder ~/.themes"
 echo "The folder was created if you did not have one."
 echo "If you made a mistake, delete the folders in .themes and run the script again."
 echo "Select the new theme with your theme manager and enjoy!"
-echo "Script 6 will delete the /usr/share/themes you created."
+echo "Script 6 will delete your personal theme in /usr/share/themes."
 echo "Script 7 will install the original (blue) arc theme back."
 
