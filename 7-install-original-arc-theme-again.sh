@@ -13,6 +13,7 @@
 #https://github.com/horst3180/arc-theme
 
 echo "Installing the origal arc theme from github."
+echo "This will always be the best up-to-date version you can have!!!"
 
 sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
 git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd /tmp/arc-theme

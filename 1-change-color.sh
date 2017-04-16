@@ -13,7 +13,6 @@
 
 echo "All colours in the folder common are still the original blue ones from github!!!"
 echo "Choose your colour that will replace the blue online or with tools like gpick."
-echo "e.g. sudo apt-get install gpick"
 echo "Changing ....."
 echo "Wait for it ...."
 
@@ -32,7 +31,7 @@ oldcolour1=5294E2
 #########################################################
 ################ CHANGE ONLY THIS CODE ##################
 #########################################################
-newcolour1=5294E2
+newcolour1=DC143C
 #########################################################
 ############ NO HASHTAG BEFORE COLOUR CODE ##############
 #########################################################
@@ -48,6 +47,10 @@ newcolour1=5294E2
 echo "Fix 1"
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
+
+# openbox file
+
+find 8-openbox-themerc -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
 
 echo "Fix 2"
@@ -105,12 +108,13 @@ newcolour1=$rgbacolour
 
 find common -type f -exec sed -i "s/$oldcolour1/$newcolour1/g" {}  \;
 
-
-
 # watch it at this point newcolour1 is an rgba colour
 # no more scripts behind here unless rgba is needed
 
-echo "All css files but also svg files will be affected"
-echo "PNG'S will not be altered with this script"
+
+
+echo "All css files but also svg files have been changed now to your colour code."
+echo "BUT PNG'S will not be altered with this script."
+echo "So we will need to make new png's in script 3."
 echo
-echo "Next up delete all assets i.e. png's with script number 2"
+echo "Next up delete all assets i.e. png's with script number 2."

@@ -11,21 +11,20 @@
 #
 ##################################################################################################################
 
-echo "Deleting all assets i.e. png in the common folder"
+echo "Deleting all old assets i.e. png with blue colour in the common folder"
 
-rm -rf common/gtk-2.0/assets/*
-rm -rf common/gtk-2.0/assets-dark/*
-rm -rf common/gtk-2.0/menubar-toolbar/*
+rm -rf common/gtk-2.0/assets/*.png
+rm -rf common/gtk-2.0/assets-dark/*.png
+rm -rf common/gtk-2.0/menubar-toolbar/*.png
+rm -rf common/gtk-3.0/3.14/assets/*.png
+rm -rf common/gtk-3.0/3.16/assets/*.png
+rm -rf common/gtk-3.0/3.18/assets/*.png
+rm -rf common/gtk-3.0/3.20/assets/*.png
 
-rm -rf common/gtk-3.0/3.14/assets/*
-rm -rf common/gtk-3.0/3.16/assets/*
-rm -rf common/gtk-3.0/3.18/assets/*
-rm -rf common/gtk-3.0/3.20/assets/*
-
-rm -rf common/xfwm4/assets/*
-rm -rf common/xfwm4/assets-dark/*
+rm -rf common/xfwm4/assets/*.png
+rm -rf common/xfwm4/assets-dark/*.png
 
 echo "All png's have been deleted"
 echo "Proceed to making the assets."
 echo
-echo "Run script number 3 to make the assets."
+echo "Run script number 3 to make the assets i.e. the png's with your colour."

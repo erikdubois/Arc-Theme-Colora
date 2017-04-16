@@ -11,8 +11,9 @@
 #
 ##################################################################################################################
 
-echo "Did you install script 0 - all needed software for the correct distro?"
-
+echo "After running scripts 0 to 2, you will now make new png's."
+echo "These png's will have your colouring."
+echo
 echo "It is time for you to take a coffee."
 echo "It will take as long as it takes depending on cpu etc..."
 
