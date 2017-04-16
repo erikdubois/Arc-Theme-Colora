@@ -211,7 +211,7 @@ If you want the original Arc theme back. Just run this script
     7-install-original-arc-theme-again.sh
 
 
-**8. Openbox theme
+**8. Openbox theming**
 
 As from April 2017 I changed the naming from Arc-Dark-Sun to Arc-Sun-Dark. This improved the readability when you select your theme.
 
