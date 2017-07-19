@@ -15,7 +15,7 @@
 choice=$1
 
 if [ $# -ne 1 ]; then
-    
+
     echo "Let us rename the folders so they are unique :"
 	echo "Your name will be added after 'Arc-'"
 	echo "E.g. Arc-Sun, Arc-Sun-Dark, Arc-Sun-Darker"
@@ -23,13 +23,13 @@ if [ $# -ne 1 ]; then
 	read -p "How should we name this new theme? First letter is a capital letter : " choice
 
 	echo "Renaming the folders"
-   
-    
+
+
 fi
 
 
 
-function make-arc
+function makearc
 {
 # if there is no hidden folder then make one
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
@@ -71,4 +71,4 @@ echo "Script 7 will install the original (blue) arc theme back."
 }
 
 
-make-arc
+makearc
