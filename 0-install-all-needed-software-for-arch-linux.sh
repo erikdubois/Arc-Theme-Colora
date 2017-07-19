@@ -13,7 +13,7 @@
 
 # Ubuntu
 
-sudo pacman -S autoconf automake pkg-config inkscape optipng
+sudo pacman -S autoconf automake pkg-config inkscape optipng --needed
 
 
 echo "We install all needed software depending on the distro you are on."

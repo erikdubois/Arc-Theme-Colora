@@ -41,6 +41,9 @@ newcolour1=DC143C
 
 
 
+# First copy over the folders needed for openbox distro's
+
+cp -r openbox-3  common/
 
 # DO NOT CHANGE THESE LINES FROM HERE ONWARDS
 # all css files but also svg files will be affected
@@ -50,9 +53,6 @@ echo "Fix 1"
 
 find common -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
-# openbox file
-
-find 8-openbox-themerc -type f -exec sed -i 's/'$oldcolour1'/'$newcolour1'/g' {}  \;
 
 
 echo "Fix 2"

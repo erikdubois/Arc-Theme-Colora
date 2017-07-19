@@ -18,7 +18,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 ###These scripts can also be run on other systems then Linux Mint. Scroll down to the bottom to see on which distro's.
 
 
-Each time I run these scripts, I added a name of the colour behind it 
+Each time I run these scripts, I added a name of the colour behind it
 
     Arc to Arc-Sun
     Arc-Dark to Arc-Sun-Dark
@@ -57,11 +57,11 @@ To build the arc theme you'll need following applications.
     * `libgtk-3-dev` for Debian based distros or `gtk3-devel` (RPM) and `libgtk-3-devel` in Solus
     * `git` if you want to clone the source directory
 
-There are several tutorial articles about arc colora on several distro's: 
+There are several tutorial articles about arc colora on several distro's:
 
 	* Linux Mint
 	* Ubuntu
-	* Solus Budgie 
+	* Solus Budgie
 
 http://erikdubois.be/category/themes/arc-based-themes/
 
@@ -78,7 +78,7 @@ http://erikdubois.be/category/themes/arc-based-themes/
 
 **0. Get the source**
 
-First install git 
+First install git
 
     Debian based
 	sudo apt install git
@@ -98,13 +98,15 @@ Get the latest version from Arc Colora, clone the repository with
 
     git clone https://github.com/erikdubois/arc-theme-colora
 
-Copy/paste all scripts inside the directory 
+Copy/paste all scripts inside the directory
 
     arc-theme-colora
 
-to 
+to
 
     arc-theme
+
+Copy/paste also the openbox-3 directory over.
 
 Let us run the scripts.
 
@@ -175,7 +177,7 @@ It has now the standard name Arc, Arc-Dark and Arc-Darker.
 
 We will run the last script nr 5
 
-	- to rename the folders 
+	- to rename the folders
 	- to move the folders to ~/.themes
 	- to change the content of the three index.themes
 
@@ -190,7 +192,7 @@ After the installation is complete you can activate the theme with `gnome-tweak-
 
 <b>Your personal theme is in ~/.themes with the changed name and changed index.themes IF you ran previous script.</b>
 
-You can erase the ones in /usr/share/themes. 
+You can erase the ones in /usr/share/themes.
 
 If you want to erase the original files in the folder
 
@@ -209,16 +211,6 @@ The script of horst3180  will make (and overwrite) folders Arc, Arc-Dark and Arc
 If you want the original Arc theme back. Just run this script
 
     7-install-original-arc-theme-again.sh
-
-
-**8. Openbox theming**
-
-As from April 2017 I changed the naming from Arc-Dark-Sun to Arc-Sun-Dark. This improved the readability when you select your theme.
-
-I added also a new file : 8-openbox-themerc
-
-This file is now also required when you run the scripts. It is used for openbox distro's like ARCHLabs.
-You are not supposed to run number 8 but the scripts need it.
 
 
 # Select the new theme
@@ -362,7 +354,7 @@ Since I sometimes forget to make the script executable, I include here what you 
 
 A script can only run when it is marked as an executable.
 
-	ls -al 
+	ls -al
 
 Above code will reveal if a script has an "x". X meaning executable.
 Google "chmod" and "execute" and you will find more info.

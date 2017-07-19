@@ -25,17 +25,24 @@ sudo make install
 sudo cp -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark/* /usr/share/themes/Arc-Dark/gtk-2.0/assets/
 sudo rm -rf /usr/share/themes/Arc-Dark/gtk-2.0/assets/assets-dark
 
-# moving openbox file to /usr/share/themes
+#openbox files
+sudo cp -rf common/openbox-3/ /usr/share/themes/Arc/
+sudo cp -rf common/openbox-3/ /usr/share/themes/Arc-Dark/
+sudo cp -rf common/openbox-3/ /usr/share/themes/Arc-Darker/
 
-sudo mkdir /usr/share/themes/Arc/openbox-3
-sudo mkdir /usr/share/themes/Arc-Dark/openbox-3
-sudo mkdir /usr/share/themes/Arc-Darker/openbox-3
-
-sudo cp 8-openbox-themerc  /usr/share/themes/Arc/openbox-3/themerc
-sudo cp 8-openbox-themerc  /usr/share/themes/Arc-Dark/openbox-3/themerc
-sudo cp 8-openbox-themerc  /usr/share/themes/Arc-Darker/openbox-3/themerc
-
-
+#remove unused themes and rename the used one
+#arc theme
+sudo rm /usr/share/themes/Arc/openbox-3/themerc-arc-dark
+sudo rm /usr/share/themes/Arc/openbox-3/themerc-arc-darker
+sudo mv /usr/share/themes/Arc/openbox-3/themerc-arc /usr/share/themes/Arc/openbox-3/themerc
+#arc-dark theme
+sudo rm /usr/share/themes/Arc-Dark/openbox-3/themerc-arc
+sudo rm /usr/share/themes/Arc-Dark/openbox-3/themerc-arc-darker
+sudo mv /usr/share/themes/Arc-Dark/openbox-3/themerc-arc-dark /usr/share/themes/Arc-Dark/openbox-3/themerc
+#arc darker theme
+sudo rm /usr/share/themes/Arc-Darker/openbox-3/themerc-arc
+sudo rm /usr/share/themes/Arc-Darker/openbox-3/themerc-arc-dark
+sudo mv /usr/share/themes/Arc-Darker/openbox-3/themerc-arc-darker /usr/share/themes/Arc-Darker/openbox-3/themerc
 
 echo "The script from Arc will add the folders Arc, Arc-Dark and Arc-Darker to /usr/share/themes."
 echo "In effect it will overwrite the original Arc theme if you had it installed."
