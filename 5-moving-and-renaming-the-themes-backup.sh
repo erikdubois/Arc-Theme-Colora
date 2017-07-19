@@ -11,31 +11,19 @@
 #
 ##################################################################################################################
 
-
-choice=$1
-
-if [ $# -ne 1 ]; then
-    
-    echo "Let us rename the folders so they are unique :"
-	echo "Your name will be added after 'Arc-'"
-	echo "E.g. Arc-Sun, Arc-Sun-Dark, Arc-Sun-Darker"
-
-	read -p "How should we name this new theme? First letter is a capital letter : " choice
-
-	echo "Renaming the folders"
-   
-    
-fi
-
-
-
-function make-arc
-{
 # if there is no hidden folder then make one
 [ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
 cp -rf /usr/share/themes/Arc $HOME"/.themes"
 cp -rf /usr/share/themes/Arc-Dark $HOME"/.themes"
 cp -rf /usr/share/themes/Arc-Darker $HOME"/.themes"
+
+echo "Let us rename the folders so they are unique :"
+echo "Your name will be added after 'Arc-'"
+echo "E.g. Arc-Sun, Arc-Sun-Dark, Arc-Sun-Darker"
+
+read -p "How should we name this new theme? First letter is a capital letter : " choice
+
+echo "Renaming the folders"
 
 mv $HOME"/.themes/Arc" $HOME"/.themes/Arc-"$choice
 mv $HOME"/.themes/Arc-Dark" $HOME"/.themes/Arc-"$choice"-Dark"
@@ -67,8 +55,3 @@ echo "If you made a mistake, delete the folders in .themes and run the script ag
 echo "Select the new theme with your theme manager and enjoy!"
 echo "Script 6 will delete your personal theme in /usr/share/themes."
 echo "Script 7 will install the original (blue) arc theme back."
-
-}
-
-
-make-arc
