@@ -78,7 +78,7 @@ case $DISTRO in
 
 	Solus)
 
-		sudo eopkg it -y git gcolor3 optipng autoconf automake pkg-config libgtk-3-devel m4 make
+		sudo eopkg it -y git inkscape gcolor3 optipng autoconf automake pkg-config libgtk-3-devel m4 make
 
 	;;
 
