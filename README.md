@@ -112,7 +112,6 @@ If you want the original Arc theme back. Just run this script
     installation8.sh
 
 
-# Select the new theme
 # Script can run on a variety of distro's.
 
 ## ArchMergeD Mate Red
