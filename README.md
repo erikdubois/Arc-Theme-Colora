@@ -116,7 +116,7 @@ If you want the original Arc theme back. Just run this script
 
 ## ArchMergeD Mate
 
-[Imgur](https://i.imgur.com/QCqypzj.jpg)
+![Screenshots](https://i.imgur.com/QCqypzj.jpg)
 
 
 
