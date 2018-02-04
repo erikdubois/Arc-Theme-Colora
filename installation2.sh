@@ -45,6 +45,7 @@ rgbfunction () {
 count=$[count+1]
 echo "Fix " $count
 echo "Making sure all colour codes have capital letters"
+echo "The very common colour #5294e2 is changed into capital letters."
 rgbfunction "5294e2" "5294E2"
 
 count=$[count+1]
@@ -76,6 +77,7 @@ count=$[count+1]
 echo "Fix " $count
 echo "The colour #2679db is changed into the newcolour1."
 rgbfunction "2679db" $newcolour1
+
 
 
 echo "#####################################################################"
@@ -115,6 +117,7 @@ rgbafunction "82, 148, 226" $newcolour1
 count=$[count+1]
 echo "Fix " $count
 rgbafunction "65, 137, 223" $newcolour1
+
 
 echo "#####################################################################"
 echo "#####################################################################"
