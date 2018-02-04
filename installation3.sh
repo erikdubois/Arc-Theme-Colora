@@ -27,5 +27,5 @@ rm -rf arc-theme/common/xfwm4/assets-dark/*.png
 echo "All png's have been deleted"
 echo "Proceed to making the assets."
 echo
-echo "Run script number 4 to make the assets i.e. the png's with your colour."
+echo "Run next script to make the assets i.e. the png's with your colour."
 echo "#####################################################################"

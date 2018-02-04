@@ -122,4 +122,4 @@ echo "All css files but also svg files have been changed now to your colour code
 echo "BUT PNG'S will not be altered with this script."
 echo "So we will need to make new png's lateron."
 echo
-echo "Next up delete all assets i.e. png's with script number 3."
+echo "Next up delete all assets i.e. png's with next script."

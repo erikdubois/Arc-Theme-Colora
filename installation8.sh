@@ -24,7 +24,7 @@ sudo make install
 rm -rf /tmp/arc-theme
 
 # sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-
+echo "#####################################################################"
 echo "The original arc theme is installed. Select Arc, Arc-Dark or Arc-Darker."
 
 echo "################################################################"

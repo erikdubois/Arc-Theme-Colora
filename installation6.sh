@@ -66,8 +66,7 @@ echo "The folder was created if you did not have one."
 echo "If you made a mistake, delete the folders in .themes and run the script again."
 echo "Select the new theme with your theme manager and enjoy!"
 echo "#####################################################################"
-echo "Script 7 will delete your personal theme in /usr/share/themes."
-echo "Script 8 will install the original (blue) arc theme back."
+echo "Run next script to delete your personal theme in /usr/share/themes."
 echo "#####################################################################"
 
 }

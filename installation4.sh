@@ -10,13 +10,13 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 ##################################################################################################################
-
-echo "After running scripts 0 to 2, you will now make new png's."
+echo "#####################################################################"
+echo "After running scripts 1 to 3, you will now make new png's."
 echo "These png's will have your colouring."
 echo
 echo "It is time for you to take a coffee."
 echo "It will take as long as it takes depending on cpu etc..."
-
+echo "#####################################################################"
 
 echo "making the assets of gtk-2.0"
 echo
@@ -55,9 +55,9 @@ echo "All assets have been made."
 echo "Svg's have been exported from the assets svg files"
 echo "and converted to png's"
 echo
-echo "Run script number 5 to install the themes."
+echo "Run next script to install the themes."
 echo
-echo "Your themes will be installed in /usr/share/themes"
-echo "If you have already the arc theme, it will be overwritten."
+echo "Your personal Arc Theme will be installed in /usr/share/themes"
+echo "If you have already the Arc theme, it will be overwritten."
 echo "Do not worry we can install the original arc theme again."
 echo "#####################################################################"
