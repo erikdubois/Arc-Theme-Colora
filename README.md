@@ -113,16 +113,32 @@ If you want the original Arc theme back. Just run this script
 
 
 # Select the new theme
+# Script can run on a variety of distro's.
 
 ## ArchMergeD Mate Red
 
 ![Screenshots](https://i.imgur.com/QCqypzj.jpg)
 
 
+## Archlinux Budgie
 
 
-After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Sun-Darker` or `Arc-Sun-Dark` as Window/GTK+ theme.
+![Screenshots](http://i.imgur.com/eglrK8U.jpg)
 
+
+## Solus Budgie
+
+![Screenshots](http://i.imgur.com/grzCgQ1.jpg)
+
+
+## Ubuntu 16.04
+
+On top of the yellow arc theme I made a new icon theme from sardi mono numix colora where the body is the same colour as the yellow from the theme.
+
+![Screenshots](http://i.imgur.com/tzcv0r6.png)
+
+
+## Linux Mint
 
 
 ##Arc-Sun
@@ -206,27 +222,6 @@ A screenshot of the Arc-Dark-Sun theme
 ##A screenshot of the Arc-Dark-Violet theme
 
 ![Screenshots](http://i.imgur.com/X10vCOE.jpg)
-
-
-
-# Script can run on a variety of distro's.
-
-## Archlinux Budgie
-
-
-![Screenshots](http://i.imgur.com/eglrK8U.jpg)
-
-
-## Solus Budgie
-
-![Screenshots](http://i.imgur.com/grzCgQ1.jpg)
-
-
-## Ubuntu 16.04
-
-On top of the yellow arc theme I made a new icon theme from sardi mono numix colora where the body is the same colour as the yellow from the theme.
-
-![Screenshots](http://i.imgur.com/tzcv0r6.png)
 
 
 
