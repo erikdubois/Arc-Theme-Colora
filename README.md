@@ -76,7 +76,7 @@ It has now the standard name Arc, Arc-Dark and Arc-Darker.
 
 We will run
 
-  installation6.sh
+    installation6.sh
 
 	- to rename the folders
 	- to move the folders to ~/.themes
