@@ -114,6 +114,12 @@ If you want the original Arc theme back. Just run this script
 
 # Select the new theme
 
+## ArchMergeD Mate
+
+[Imgur](https://i.imgur.com/QCqypzj.jpg)
+
+
+
 
 After the installation is complete you can activate the theme with your theme manager by selecting `Arc-Sun`, `Arc-Sun-Darker` or `Arc-Sun-Dark` as Window/GTK+ theme.
 
