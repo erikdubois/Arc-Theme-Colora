@@ -17,13 +17,6 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 
 ## These scripts are build to run on any Linux distro.
 
-# Just want to download the themes not build them.
-
-Linux Mint users download here : https://github.com/erikdubois/Arc-Theme-Colora-Collection
-
-On other githubs I do have some specific Arc Colora themes for that distro when I test the script.
-
-Again just run the scripts on your distro. Depending on cpu power etc it will take about 10-15 minutes.
 
 # Installation
 
@@ -223,6 +216,14 @@ A screenshot of the Arc-Dark-Sun theme
 ![Screenshots](http://i.imgur.com/X10vCOE.jpg)
 
 
+
+# Just want to download the themes not build them.
+
+Linux Mint users download here : https://github.com/erikdubois/Arc-Theme-Colora-Collection
+
+On other githubs I do have some specific Arc Colora themes for that distro when I test the script.
+
+Again just run the scripts on your distro. Depending on cpu power etc it will take about 10-15 minutes.
 
 
 # Uninstall the theme manually
