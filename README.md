@@ -97,10 +97,6 @@ After the installation is complete you can activate the theme with `gnome-tweak-
 
 You can erase the ones in /usr/share/themes.
 
-If you want to erase the original files in the folder
-
-	/usr/share/themes
-
 Run this script
 
 	installation7.sh
