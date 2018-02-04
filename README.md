@@ -78,6 +78,8 @@ We will run
 
     installation6.sh
 
+in order
+
 	- to rename the folders
 	- to move the folders to ~/.themes
 	- to change the content of the three index.themes
