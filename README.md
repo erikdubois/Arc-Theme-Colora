@@ -114,7 +114,7 @@ If you want the original Arc theme back. Just run this script
 
 # Select the new theme
 
-## ArchMergeD Mate Crimson
+## ArchMergeD Mate Red
 
 ![Screenshots](https://i.imgur.com/QCqypzj.jpg)
 
