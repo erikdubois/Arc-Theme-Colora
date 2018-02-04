@@ -12,7 +12,7 @@
 ##################################################################################################################
 
 sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-
+echo "#####################################################################"
 echo "Your personal arc themes have been removed from /usr/share/themes."
-
-
+echo "You can recreate the original blue Arc theme in script 8 if you want."
+echo "#####################################################################"
