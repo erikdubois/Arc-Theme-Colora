@@ -13,16 +13,7 @@
 echo "#####################################################################"
 echo "Deleting all old assets i.e. png with blue colour in the arc-theme/common folder"
 
-rm -rf arc-theme/common/gtk-2.0/assets/*.png
-rm -rf arc-theme/common/gtk-2.0/assets-dark/*.png
-rm -rf arc-theme/common/gtk-2.0/menubar-toolbar/*.png
-rm -rf arc-theme/common/gtk-3.0/3.14/assets/*.png
-rm -rf arc-theme/common/gtk-3.0/3.16/assets/*.png
-rm -rf arc-theme/common/gtk-3.0/3.18/assets/*.png
-rm -rf arc-theme/common/gtk-3.0/3.20/assets/*.png
-
-rm -rf arc-theme/common/xfwm4/assets/*.png
-rm -rf arc-theme/common/xfwm4/assets-dark/*.png
+find arc-theme/common -iname "*.png" -exec rm '{}' \;
 
 echo "All png's have been deleted"
 echo "Proceed to making the assets."
