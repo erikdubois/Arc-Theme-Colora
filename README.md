@@ -30,7 +30,7 @@ Run the scripts from 1 to 8 and follow the instructions.
 
 Install the software for your distro.
 
-    installation1.sh
+   01_install_software.sh
 
 
 **2. Change the colour**
@@ -38,25 +38,25 @@ Install the software for your distro.
 Use the script to change the colour. Find yourself a nice colour with gpick or online.
 It should be a hexadecimal notation WITHOUT the #. Read the script for more info.
 
-    installation2.sh
+    02_change_color.sh
 
 **3. Delete old assets or png's**
 
 Old png's will have to be deleted. They are still the original blue ones. Read the script for more info.
 
-	installation3.sh
+	03_delete_assets.sh
 
 
 **4. Make new assets or png's**
 
 This is the most important part. New png's will be created with your colour. This takes time.
 
-	installation4.sh
+	04_make_assets.sh
 
 
 **5. Build and install the theme**
 
-    installation5.sh
+    05_build_install.sh
 
 **6. Copy and rename the theme**
 
@@ -69,7 +69,7 @@ It has now the standard name Arc, Arc-Dark and Arc-Darker.
 
 We will run
 
-    installation6.sh
+    06_copy_rename.sh
 
 in order
 
@@ -92,7 +92,7 @@ You can erase the ones in /usr/share/themes.
 
 Run this script
 
-	installation7.sh
+	07_erase_theme.sh
 
 
 
@@ -102,7 +102,7 @@ The script of horst3180  will make (and overwrite) folders Arc, Arc-Dark and Arc
 
 If you want the original Arc theme back. Just run this script
 
-    installation8.sh
+    08_reinstall_latest.sh
 
 
 # Script can run on a variety of distro's.
