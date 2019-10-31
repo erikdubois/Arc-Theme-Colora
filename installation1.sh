@@ -64,7 +64,7 @@ echo "################################################################"
 
 case $DISTRO in
 
-	LinuxMint|linuxmint|Ubuntu|ubuntu)
+	LinuxMint|linuxmint|Ubuntu|ubuntu|Peppermint|peppermint)
 
 		sudo apt-get install -y git autoconf automake pkg-config libgtk-3-dev inkscape optipng
 
