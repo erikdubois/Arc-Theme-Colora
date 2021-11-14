@@ -33,6 +33,9 @@
 
 # git reset --hard orgin/master
 
+if [ -d arc-theme ]; then
+	rm -rf arc-theme
+fi
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
